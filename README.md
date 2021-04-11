@@ -9,11 +9,12 @@ All streamed data is saved into a .csv file called `raw_stream_output.csv`. We a
 
 It is required to have `pip` and any virtual environment manager installed to run this script.
 1. First, create your virtual environment by running `python -m venv venv` on Windows terminal.
-2. Then, run `pip install -r requirements.txt` on your shell to install all dependencies.
-3. To run the script, go to `twitter` folder (`cd src/twitter`) and run `python tweet_acquisition.py`.
-4. You can stop streaming when desired by pressing `Ctrl+C` on your terminal.
-5. A file called `raw_stream_output.csv` will be generated on `files` folder.
-6. Run the `csv_treatment.ipynb` script on Jupyter notebook to remove the duplicates and generate a new dataframe.
+2. Activate your virtual environment by running `venv\scripts\activate`.
+3. Then, run `pip install -r requirements.txt` on your shell to install all dependencies.
+4. To run the script, go to `twitter` folder (`cd src/twitter`) and run `python tweet_acquisition.py`.
+5. You can stop streaming when desired by pressing `Ctrl+C` on your terminal.
+6. A file called `raw_stream_output.csv` will be generated on `files` folder.
+7. Run the `csv_treatment.ipynb` script on Jupyter notebook to remove the duplicates and generate a new dataframe.
 
 ## Developed by:
 - [Fabiana Masini Garcia](https://www.linkedin.com/in/fabianamasini/)
