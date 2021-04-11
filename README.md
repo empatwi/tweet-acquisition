@@ -16,5 +16,5 @@ It is required to have `pip` and any virtual environment manager installed to ru
 6. Run the `csv_treatment.ipynb` script on Jupyter notebook to remove the duplicates and generate a new dataframe.
 
 ## Developed by:
-- Fabiana Masini Garcia
-- Letícia Vigna Modenese Silva
+- [Fabiana Masini Garcia](https://www.linkedin.com/in/fabianamasini/)
+- [Letícia Vigna Modenese Silva](https://www.linkedin.com/in/leticia-vigna/)
