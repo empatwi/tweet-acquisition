@@ -4,7 +4,7 @@ import settings
 
 from tweepy.streaming import StreamListener
 
-csvfile = open('stream_output.csv', 'a', encoding='utf-8')
+csvfile = open('../../files/raw_stream_output.csv', 'a', encoding='utf-8')
 csvwriter = csv.writer(csvfile)
 csvwriter.writerow([
     'created_at',
