@@ -36,42 +36,43 @@ class StreamListener(StreamListener):
         """
         keywords.clear()
 
-        if hasattr(status, "retweeted_status"):
-            try:
-                tweet_content = str(status.retweeted_status.extended_tweet["full_text"])
-            except AttributeError:
-                tweet_content = str(status.retweeted_status.text)
-        elif hasattr(status, "quoted_status"):
-            try:
-                tweet_content = str(status.quoted_status.extended_tweet["full_text"])
-            except AttributeError:
-                tweet_content = str(status.quoted_status.text)
-        else:
-            try:
-                tweet_content = str(status.extended_tweet["full_text"])
-            except AttributeError:
-                tweet_content = str(status.text)
+        if status["entities"]["urls"] == []:
+            if hasattr(status, "retweeted_status"):
+                try:
+                    tweet_content = str(status.retweeted_status.extended_tweet["full_text"])
+                except AttributeError:
+                    tweet_content = str(status.retweeted_status.text)
+            elif hasattr(status, "quoted_status"):
+                try:
+                    tweet_content = str(status.quoted_status.extended_tweet["full_text"])
+                except AttributeError:
+                    tweet_content = str(status.quoted_status.text)
+            else:
+                try:
+                    tweet_content = str(status.extended_tweet["full_text"])
+                except AttributeError:
+                    tweet_content = str(status.text)
 
-        for tracked_topic in settings.TRACKED_TOPICS:
-            if tracked_topic.lower() in tweet_content.lower():
-                keywords.append(tracked_topic)
-                print(keywords)
+            for tracked_topic in settings.TRACKED_TOPICS:
+                if tracked_topic.lower() in tweet_content.lower():
+                    keywords.append(tracked_topic)
+                    print(keywords)
 
-        user_location = str(status.user.location)
-        created_at = str(status.created_at)
-        entities = str(status.entities)
-        geo = status.geo
-        coordinates = status.coordinates
+            user_location = str(status.user.location)
+            created_at = str(status.created_at)
+            entities = str(status.entities)
+            geo = status.geo
+            coordinates = status.coordinates
 
-        csvwriter.writerow(
-            [
-                created_at,
-                tweet_content,
-                keywords,
-                user_location,
-                entities
-            ]
-        )
+            csvwriter.writerow(
+                [
+                    created_at,
+                    tweet_content,
+                    keywords,
+                    user_location,
+                    entities
+                ]
+            )
         
     def on_error(self, status_code):
         if status_code == 420:
