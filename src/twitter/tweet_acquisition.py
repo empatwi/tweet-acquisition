@@ -10,4 +10,3 @@ if __name__ == '__main__':
     auth.set_access_token(settings.ACCESS_TOKEN, settings.ACCESS_TOKEN_SECRET)
     stream = Stream(auth, stream_listener)
     stream.filter(track=settings.TRACKED_TOPICS, languages=["pt"])
-
