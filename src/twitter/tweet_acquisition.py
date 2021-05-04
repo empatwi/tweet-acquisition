@@ -9,5 +9,7 @@ if __name__ == '__main__':
     auth = OAuthHandler(settings.API_KEY, settings.API_KEY_SECRET)
     auth.set_access_token(settings.ACCESS_TOKEN, settings.ACCESS_TOKEN_SECRET)
     stream = Stream(auth, stream_listener)
-    stream.filter(track=settings.TRACKED_TOPICS, languages=["pt"], filter_level="medium")
+    print("Chegou aqui 1")
+    stream.filter(track=settings.TRACKED_TOPICS, languages=["pt"])
+    print("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 

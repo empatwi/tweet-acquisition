@@ -33,10 +33,14 @@ class StreamListener(StreamListener):
 
         - keywords.clear() is called at the beginning of each stream to
         remove previous tweet's keywords from the current row.
+
+        - The tweet is only written on the csv file if it does not
+        contain strings as "https://" or "http://" because we want
+        to avoid tweets with URLs and media such as videos, GIFs and
+        images.
         """
         keywords.clear()
-
-        if status["entities"]["urls"] == []:
+        if status.entities["urls"] == []:
             if hasattr(status, "retweeted_status"):
                 try:
                     tweet_content = str(status.retweeted_status.extended_tweet["full_text"])
@@ -56,23 +60,22 @@ class StreamListener(StreamListener):
             for tracked_topic in settings.TRACKED_TOPICS:
                 if tracked_topic.lower() in tweet_content.lower():
                     keywords.append(tracked_topic)
-                    print(keywords)
 
             user_location = str(status.user.location)
             created_at = str(status.created_at)
             entities = str(status.entities)
-            geo = status.geo
-            coordinates = status.coordinates
 
-            csvwriter.writerow(
-                [
-                    created_at,
-                    tweet_content,
-                    keywords,
-                    user_location,
-                    entities
-                ]
-            )
+            if not ("https://" or "http://") in tweet_content:
+                print(tweet_content)
+                csvwriter.writerow(
+                    [
+                        created_at,
+                        tweet_content,
+                        keywords,
+                        user_location,
+                        entities
+                    ]
+                )
         
     def on_error(self, status_code):
         if status_code == 420:

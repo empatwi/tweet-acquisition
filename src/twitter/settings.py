@@ -11,4 +11,6 @@ TRACKED_TOPICS = [
     "Coca-cola",
     "Coca cola",
     "Nike",
-    "Xiaomi"]
+    "Xiaomi",
+    "SHEIN",
+    "Boticário"]
