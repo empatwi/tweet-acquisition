@@ -1,4 +1,4 @@
-# Empatwi
+# empatwi
 
 ## Tweet acquisition
 
