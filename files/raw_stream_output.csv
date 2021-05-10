@@ -1,298 +1,360 @@
 created_at,tweet_content,keyword,user_location,entities
-2021-05-04 12:30:48,mds nubank nunca libera mais limite pra mim,['Nubank'],Goiânia,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:09,mais viciado que a bateria do meu celular só eu por coca-cola 🤦🏻‍♀️🤦🏻‍♀️,['Coca-cola'],Balneário Camboriú,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:20,"@kayofeer @nubank Aconteceu isso c a minha mãe, quase 1 ano e nada ainda",['Nubank'],"Macaé, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'kayofeer', 'name': 'Kayo', 'id': 1604672425, 'id_str': '1604672425', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [10, 17]}], 'symbols': []}"
-2021-05-04 12:31:25,Pedi 10k de limite pra Nubank serasi?,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:27,"toda vez que vejo Nubank nos tt vou lá conferir que meu saldo tá certo
+2021-05-10 14:35:23,Relacionamento sério com a nike,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:35:28,Lembro da época que existia camisa da Nike do Bahia e do Coritiba,['Nike'],Gotham,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:35:32,@sccpnic Nike é muito bomm,['Nike'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sccpnic', 'name': 'ؘn.', 'id': 1219373400835215361, 'id_str': '1219373400835215361', 'indices': [0, 8]}], 'symbols': []}"
+2021-05-10 14:35:42,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:35:59,"Segundo desafio:
+COMENTEM:
+COCA COLA X FANTA
+PIZZA X HAMBÚRGUER
+NOITE X DIA
+PRAIA X PISCINA
+BISCOITO X BOLACHA
+COXINHA X PASTEL
+Usem a tag CACTOS UNIDOS PELO RESPEITO
+RT para espalhar!",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'teamepaaau', 'name': 'TEAM É PAAAU 💥', 'id': 1351620075602780160, 'id_str': '1351620075602780160', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:36:12,"pedi os treco na shein,agora so esperar 37 anos p chegar meus treco",['SHEIN'],"Cuiabá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:36:18,"@nubank não queria um email de recarga de celular, queria um email dizendo ""você está convidado para testar o Apple Pay com seu roxinho""",['Nubank'],"Mendes, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:36:25,"O site da Shein eh tão bom de navegar, adoro que ele fica sugerindo peças parecidas com a que vc tá procurando. Passo horas só olhando. Parece que to no shopping 😂",['SHEIN'],"Mato Grosso, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ricademarre', 'name': 'Gabriela Sales', 'id': 150605888, 'id_str': '150605888', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:36:33,minhas roupas da shein estão em POA aaaaaa 💕,['SHEIN'],tranquility base hotel+cassino,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:36:51,@RodrigoBuenoTV A Nike me parece n tá querendo se envolver MT em time de futebol só quer os tradicionais dela msm,['Nike'],"Cariacica, ES","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:36:53,@futebol_info @AtaqueMarketing Só um da Nike! Surpreendeu.,['Nike'],"Maringá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'futebol_info', 'name': 'Planeta do Futebol 🌎', 'id': 193500696, 'id_str': '193500696', 'indices': [0, 13]}, {'screen_name': 'AtaqueMarketing', 'name': 'Ataque Marketing Esportivo', 'id': 121522082, 'id_str': '121522082', 'indices': [14, 30]}], 'symbols': []}"
+2021-05-10 14:37:12,@FlashFlash123 Joga uma calça abóbora e um blusão quadriculado vai ficar da hora junto de um all star da Nike,['Nike'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'FlashFlash123', 'name': 'Miguel💙💙', 'id': 2925083743, 'id_str': '2925083743', 'indices': [0, 14]}], 'symbols': []}"
+2021-05-10 14:37:14,"""teste de caráter 
 
-juro que traumatizei com as histórias do nubank roubando dinheiro",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:34,"Fui escolhido e Nubank aumentou 50 reais no meu limite … uau, revolucionário KKKKKKKKK",['Nubank'],"Ribeirão Preto, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:35,Vocês acham que esses preju que nubank teve até uns tempos é algo inesperado... Ahhh inocente ➡️,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:31:46,@Rodrigolps_ No meu caso eu só observo a nubank aumentando os juros da minha dívida 😪,['Nubank'],🏳️‍🌈,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Rodrigolps_', 'name': 'lovezinho', 'id': 487731479, 'id_str': '487731479', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 12:31:47,@msswx @nubank Processo neles,['Nubank'],Macaé,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'msswx', 'name': 'Mari Siqueira', 'id': 1240771193319370752, 'id_str': '1240771193319370752', 'indices': [0, 6]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [7, 14]}], 'symbols': []}"
-2021-05-04 12:31:56,O nubank tá mais que preparada pra esses riscos ... E claro que para conquistar espaço essa exposição é necessária. ➡️,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:32:17,@Lukinhasbp17 Kkkkkkkk Nubank gosta deu,['Nubank'],"Palmas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Lukinhasbp17', 'name': 'luquinha', 'id': 1064206856233648133, 'id_str': '1064206856233648133', 'indices': [0, 13]}], 'symbols': []}"
-2021-05-04 12:32:19,O nubank tá mais que preparado pra esses riscos ... E claro que para conquistar espaço essa exposição é necessária. ➡️,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:32:31,"“Vou gastar tudo na Nike, cueca da Calvin Klein”",['Nike'],Hell not Helsinki,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:32:35,"@Pow3rTale Boa mano, vá que eles podem dar uma xiaomi para vc, vc merece mano kkkkkkk",['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Pow3rTale', 'name': 'Power ✨SORTEIO NO FIXADO✨', 'id': 1225962221647339522, 'id_str': '1225962221647339522', 'indices': [0, 10]}], 'symbols': []}"
-2021-05-04 12:32:35,"eu: vou parar de comer besteira 
+nike ou adidas?""
 
-logo dps meu café da manhã foi bis e coca cola",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:32:50,além de linda usa nike 😍,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mongs_hugo', 'name': 'hugo ✨', 'id': 1208201731068321792, 'id_str': '1208201731068321792', 'indices': [3, 14]}], 'symbols': []}"
-2021-05-04 12:32:55,"Já aprovei os R$ 20,00 de limite a mais que o @nubank deu e paz um pix para 586dd1fb-15fb-45ff-9fcd-63cd5cafde33 com uma mensagem.",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [46, 53]}], 'symbols': []}"
-2021-05-04 12:32:59,viciado em Shein,['SHEIN'],"Windermere, FL","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:33:13,"tipo a parada de falar que a furia é muito nike e gatorade e o plano é raiz, além do bagulho do SM",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:33:39,@nubank que ódio de você! Não pode aprovar meu crédito por quê ?,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 12:33:42,meu sonho parar de tomar coca cola,['Coca cola'],Anápolis,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'brennersbueno', 'name': 'Brenner Bueno', 'id': 907328271406247937, 'id_str': '907328271406247937', 'indices': [3, 17]}], 'symbols': []}"
-2021-05-04 12:34:12,Nubank pare de aumentar meu limite pf eu me sinto no obrigação de gastar,['Nubank'],"Goiânia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:34:13,nubank dobrou meu limite de novo,['Nubank'],Roo / Cba,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:34:13,esse aplicativo da nike eh muito bom so queria incluir meu deezer nele,['Nike'],recife,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:34:16,"o nubank liberou mais limites p todos, menos o meu ... eu só queria entender, se eu pago até dias antes da fatura vencer 
-@nubank",['Nubank'],"Engenho da Rainha, Rio de Jane","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [122, 129]}], 'symbols': []}"
-2021-05-04 12:34:18,Nubank aumentando meu limite do nada socorro,['Nubank'],Brasília,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:34:21,"Já aprovei os R$ 20,00 de limite a mais que o @nubank deu e faz um pix para 586dd1fb-15fb-45ff-9fcd-63cd5cafde33 com uma mensagem.",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [46, 53]}], 'symbols': []}"
-2021-05-04 12:34:22,vi a nubank no topico e fui olhar o meu tbm ja q geral ta falando q aumentaram o limite kkk,['Nubank'],013,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:34:35,Sexta feira ir na Nike é tudo que eu quero pprt 🤧,['Nike'], Itaboraí,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:07,"caí no mundinho SHEIN
-estou perdida amadas??",['SHEIN'],Curitiba - PR,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:17,"Nubank generoso deixando o povo se endividar e pagar juros ai que lindo, nubank o amigo de todos sqn.",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:18,nubank esse aumento de limite ta me dando gatilho,['Nubank'],"Pindamonhangaba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:36,@frifasnews Ai o cara com a blusa da nike,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'frifasnews', 'name': 'FRIFAS NEW’S', 'id': 1299343628985413633, 'id_str': '1299343628985413633', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 12:35:38,meu deus comprei muita coisa na shein kkkkkkkkkkkk vou falir,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:40,uma hora eh roupa da shein outra hora roupa de time outra conjunto da cyclone i as vezes piercing no umbigo 💔,['SHEIN'],019,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:47,Pessoal comentando aumento de crédito no nubank hoje e eu lembrando que o meu aumenta de 200 em 200 reais. Ainda não sei se é bom ou ruim,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:48,todos meus mano de Nike,['Nike'],cxs,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:35:50,achei o vestido na shein q odio,['SHEIN'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:13,"MINHAS ROUPAS DA SHEIN CHEGARAM, EU TO ANSIOSA",['SHEIN'],"Aracaju, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:13,"Gente, alguém sabe onde consigo comprar um fone xiaomi em São Luís daqueles sem fio massa, por um precinho legal? 
+Puma",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:37:47,Só queria q a nubank liberasse mais limite pra mim 😔,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:37:47,@boonbap to desde janeiro tentando desbloquear meu cartão alo @nubank,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'boonbap', 'name': 'Bon - 低音 🥁| MLK DO RJ', 'id': 925392913797996544, 'id_str': '925392913797996544', 'indices': [0, 8]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [62, 69]}], 'symbols': []}"
+2021-05-10 14:37:53,só sei que eu vou ficar muito gostosa com a camisola de renda que eu comprei na shein,['SHEIN'],"Cacoal, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:37:58,"@nubank nunu! perdi meu cartão de crédito, aonde solicito outro?",['Nubank'],louie & harrie ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:38:15,"@Brendinhakonig Eu só uso Nike e Puma, Adidas só camisa de time mesmo kkk",['Nike'],"Praia Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:38:25,reclamei que tava sem dinheiro mas esse mes consegui comprar finalmente meu aipords da xiaomi eu estava ansiosa pra isso,['Xiaomi'],"Blumenau, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:38:29,"@luizesampaio @nubank que isso, ai é foda kkkkkkkkkkk",['Nubank'],RJ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'luizesampaio', 'name': 'Luize Sampaio', 'id': 1379526474, 'id_str': '1379526474', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [14, 21]}], 'symbols': []}"
+2021-05-10 14:38:39,@mariaaa_juulia cadê minhas roupas da shein 😔😔😔,['SHEIN'],"Paraná, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mariaaa_juulia', 'name': '✹ ☽', 'id': 896096841829371904, 'id_str': '896096841829371904', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:38:40,@mallanlets Miga seus negocio da shein chegou?,['SHEIN'],Goiânia,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mallanlets', 'name': '𝐿𝑒́𝑡𝑖𝑐̧𝑎', 'id': 77533178, 'id_str': '77533178', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:38:41,"se colocasse dois mlk pago a coca cola e trakinas numa lan house pra jogar nesse bot a pain ganhava
+pqp",['Coca cola'],em algum lugar por ai,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:38:46,"@CHKHWA meus favoritos da shein estão pedindo socorro já, queria dinheiro",['SHEIN'],،،̲  ֪  ᡕᠵ᠊ᡃ່࡚ࠢ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏٫ 🏴‍☠️ ࣪  ֪ 𝐏-𝐏𝙴𝐖𝚆𝐖 ! ! あなたはろくでなしをクソ離れて行きます ! ! ! 💤 𝚈𝙾𝚄 𝙰𝚁𝙴𝙽𝚃 ♡ 𝐊𝙸𝐌 𝐇𝙾𝐍𝙶𝐉𝙾𝐎𝙽𝐆 ♡ ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'CHKHWA', 'name': '𝐌𝐈𝐑𝐄.', 'id': 704368087232024577, 'id_str': '704368087232024577', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:38:49,NUBANK EU TE ODEIO 😭,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:06,"muito agradecida pelo feedback amigos, provavelmente mudo pra nubank",['Nubank'],@qtakasal ♡ @danonneee ♡,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:07,eu me odeio mas pelo menos comprei minhas roupa na shein,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:07,"N sei de quem eu tô com mais ódio nesse momento @nubank ou @Drogaraia1 
+Eu n sou peteca pra ficar me jogando de um lado pro outro n....",['Nubank'],Fundo do poço ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [48, 55]}, {'screen_name': 'Drogaraia1', 'name': 'Drogaraia', 'id': 1241790717460123649, 'id_str': '1241790717460123649', 'indices': [59, 70]}], 'symbols': []}"
+2021-05-10 14:39:12,@boonbap @nubank sim...eles falam que é um processo automatico só usar o cartão mas cansei de passar vergonha no mercado,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'boonbap', 'name': 'Bon - 低音 🥁| MLK DO RJ', 'id': 925392913797996544, 'id_str': '925392913797996544', 'indices': [0, 8]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [9, 16]}], 'symbols': []}"
+2021-05-10 14:39:13,"@Brendinhakonig camisa de time e tênis nike tem uma diferença abismal, agora de resto adidas ganha",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:39:31,"""nike ou adidas?""
 
-Ps: no site ta 190",['Xiaomi'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:18,nubank eu nao pedi p vc aumentar meu limite cara......... assim vc n me ajuda,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:20,"@Tiagogreis Microsoft: super difícil criar um SO, Coca Cola: patente cola que vicia e AmBev.",['Coca cola'],Aracaju,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Tiagogreis', 'name': 'Tiago Guitián Reis', 'id': 2428055045, 'id_str': '2428055045', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 12:36:27,"todos aquellos hombres q todo este tiempo (antes de q llegara mi pedido de shein) me ignoraron q sepan q ahora que estoy en mi cima (ha llegado mi pedido de shein) no estoy para ellos
+voce",['Nike'],"Dourados, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'eumanovt', 'name': 'vt crf 🚩', 'id': 777594688228495360, 'id_str': '777594688228495360', 'indices': [3, 12]}], 'symbols': []}"
+2021-05-10 14:39:32,Brt No shopping nova américa Sábado Buscar os trajem da Nike 🙈😭,['Nike'],nova Iguaçu,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:40,"""nike ou adidas?""
 
-si no estuviste en las malas (antes de shein) no tendras lugar en las buenas (después de shein)",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:30,nubank aumentou em 10 reais meu limite... já é algo ne,['Nubank'],krakoa,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:31,as minhas cenas da shein chegaram wlduejbshd,['SHEIN'],she/her,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:32,"além de shein agr eu tô viciada em comprinhas no enjoei, scr",['SHEIN'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:36:52,"@deszanti ardidas geralmente
+voce",['Nike'],Cristiano ronaldo•,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:48,Tem uma coca cola no meu rato,['Coca cola'],bh,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:51,"""nike ou adidas?""
 
-mas depende do nike",['Nike'],"Guarulhos, Iraque","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'deszanti', 'name': 'lua', 'id': 777317655007129600, 'id_str': '777317655007129600', 'indices': [0, 9]}], 'symbols': []}"
-2021-05-04 12:37:15,Nunca mais meu limite do Nubank aumentou,['Nubank'],Aldeia da Folha 🍃,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:37:23,vontadezinha véa besta de pegar os 20 mil reais q o Nubank disse q tinha disponível pra empréstimo e fugir do país,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:37:32,"a nubank aumentando meu limite, confia hahahahaah",['Nubank'],"Icuí City, Ananindeua, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:37:46,"Vi o @nubank no topo, já vim correndo ver se era o Apple Pay! 🤡🤡🤡 agiliza aí né @Apple 🙏🏼",['Nubank'],"Goiânia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [5, 12]}, {'screen_name': 'Apple', 'name': 'Apple', 'id': 380749300, 'id_str': '380749300', 'indices': [80, 86]}], 'symbols': []}"
-2021-05-04 12:37:49,além de linda usa nike 😍,['Nike'],"Campina Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mongs_hugo', 'name': 'hugo ✨', 'id': 1208201731068321792, 'id_str': '1208201731068321792', 'indices': [3, 14]}], 'symbols': []}"
-2021-05-04 12:37:49,"@akbilbo Drx paia dms, e só ele p me roubar da nike",['Nike'],031💸Ced,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'akbilbo', 'name': 'bilbo', 'id': 2786336070, 'id_str': '2786336070', 'indices': [0, 8]}], 'symbols': []}"
-2021-05-04 12:37:56,"Nubank aumentou meu limite p 400 reais, olha o diabo agindo",['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:38:15,além de linda usa nike 😍,['Nike'],sp,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mongs_hugo', 'name': 'hugo ✨', 'id': 1208201731068321792, 'id_str': '1208201731068321792', 'indices': [3, 14]}], 'symbols': []}"
-2021-05-04 12:38:18,É até bom q a nubank n aumente meu limite,['Nubank'],"Camp Nou, Salvador","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:38:21,eu amo que o nubank só aumenta o limite de quem nem emprego tem,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'danilopaulodf', 'name': 'blessed bacon', 'id': 2352330198, 'id_str': '2352330198', 'indices': [3, 17]}], 'symbols': []}"
-2021-05-04 12:38:58,nubank aumenta meu limite pra 5 mil e eu digo se esperava ou nao,['Nubank'],hogwarts,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:39:07,todo mundo ganhando aumento no limite da nubank e eu tendo o pedido de aumento recusado 🤡🤡🤡,['Nubank'],rio de janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:39:15,além de linda usa nike 😍,['Nike'],"Marília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mongs_hugo', 'name': 'hugo ✨', 'id': 1208201731068321792, 'id_str': '1208201731068321792', 'indices': [3, 14]}], 'symbols': []}"
-2021-05-04 12:39:21,"é golpe seguido de golpe Nubank e todos os outros cartões de crédito.
-No fundo todos nós precisamos aprender nas aulas da Nathalia Arcuri",['Nubank'],"Campina Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:39:28,"@gabriellima_004 Por isso q eu prefiro xiaomi zz , a câmera pode perder pro iPhone mais a bateria é o dia todo kkkkkkkk",['Xiaomi'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'gabriellima_004', 'name': 'lima 🔺', 'id': 1172164441892413442, 'id_str': '1172164441892413442', 'indices': [0, 16]}], 'symbols': []}"
-2021-05-04 12:39:49,"aproveitando que o @nubank na nos TT, bora cobrar o apple pay já que foi promessa de fim de ano",['Nubank'],Vitória da Conquista,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [19, 26]}], 'symbols': []}"
-2021-05-04 12:39:49,@fridasdaughter E eu aqui também sigo na mó paz sendo testemunha de Xiaomi! 🗣️,['Xiaomi'],Ilha de Lesbos,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'fridasdaughter', 'name': 'lu', 'id': 1275661284055400450, 'id_str': '1275661284055400450', 'indices': [0, 15]}], 'symbols': []}"
-2021-05-04 12:39:55,"A quem interessar possa, estou com um novo projeto: a @HugMeClub, loja virtual que trabalha com produtos nacionais e importados de diversos setores. Originais de marcas renomadas como Calvin Klein, Tommy Hilfiger, Michael Kors, Carter's, Nike, Puma, dentre outras.",['Nike'],"Belo Horizonte, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ramaodamassa', 'name': 'Ramon', 'id': 55749053, 'id_str': '55749053', 'indices': [3, 16]}, {'screen_name': 'HugMeClub', 'name': 'Hug Me Club', 'id': 177844326, 'id_str': '177844326', 'indices': [72, 82]}], 'symbols': []}"
-2021-05-04 12:39:56,"Alô @nubank se tá rolando um aumento de limite, lembra de mim! Quelu mutuuuu",['Nubank'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [4, 11]}], 'symbols': []}"
-2021-05-04 12:40:01,E eu que tenho Nubank a anos e meu limite nunca aumentou nem 1 centavo 🤡🤡,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:40:06,"entao Nubank aumentou varios limites ate de quem nem ta com renda e eu que to com renda e pago tudo em dia, nao tenho, fdp",['Nubank'],Red Room,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:40:17,sou datilografa virgem e gosto de coca cola,['Coca cola'],Pará,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:40:19,@P0ssuidao xiaomi redmi note 10!!! (igual ao meu),['Xiaomi'],São Paulo - BR | Porto - PT,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'P0ssuidao', 'name': 'João Freire', 'id': 1888938691, 'id_str': '1888938691', 'indices': [0, 10]}], 'symbols': []}"
-2021-05-04 12:40:25,sedenta por pontos na shein,['SHEIN'],Guilherme 👼🏽🥀🖤,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:40:25,"vai toma no cu, taxa de 6,50 pra sacar dinheiro no nubank",['Nubank'],"Londrina, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:40:33,aposto que se eu for no @Banrisul eles me dão um limite maior do que eu pedi na @nubank,['Nubank'],Porto Alegre -RS,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Banrisul', 'name': 'Banrisul', 'id': 296257613, 'id_str': '296257613', 'indices': [24, 33]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [80, 87]}], 'symbols': []}"
-2021-05-04 12:40:34,"@mviana98_ Movimenta a conta da nubank que tu consegue um cartão deles, mesmo com nome sujo você consegue",['Nubank'],"São Gonçalo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'mviana98_', 'name': 'Viana', 'id': 2287348307, 'id_str': '2287348307', 'indices': [0, 10]}], 'symbols': []}"
-2021-05-04 12:40:51,"Gente minhas comprinhas da shein estão no Brasil, quanto tempo será p entregar",['SHEIN'],cwb,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:41:03,"@nubank @Joarlens Nubank rapaz 1,00 de limite é uma afronta, estou me sentindo menosprezada 🤣🤣🤣🤣🤣",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}, {'screen_name': 'Joarlens', 'name': 'Joarlens Afonso', 'id': 2799218177, 'id_str': '2799218177', 'indices': [8, 17]}], 'symbols': []}"
-2021-05-04 12:41:14,@nubank Sustenta sua gracinha 😡,['Nubank'],"Vila Valério, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 12:41:16,@pestanaskrr n eh que ela seja #### mas tbm n eh essas coca cola toda,['Coca cola'],death star,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'pestanaskrr', 'name': 'sa ☘️ ⋮ 📚: six of crows ⍟', 'id': 1149107893381345280, 'id_str': '1149107893381345280', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 12:41:40,"@mayve___ @nubank Levanta a hashtag #AprovaPL2564 e vamos ajudar a melhorar as condições de trabalho desses heróis!
+vc",['Nike'],Cristiano ronaldo•,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:39:56,"@amaralgusman @nubank Eu amo, sabe? Mas perder dinheiro me irrita num nível!!",['Nubank'],"Camaçari, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'amaralgusman', 'name': '𝙖𝙢𝙖𝙧𝙖𝙡', 'id': 771172927941193729, 'id_str': '771172927941193729', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [14, 21]}], 'symbols': []}"
+2021-05-10 14:39:58,Nubank só pode tá de brincadeira com a minha cara 🤡,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:40:02,@louietbrve Mds amg primeira pessoa que eu vejo com limite alto no nubank,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'louietbrve', 'name': 'celle!¡', 'id': 3028780515, 'id_str': '3028780515', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:40:02,"@eae_guizin_ roupa = adidas
+tênis = nike",['Nike'],terra do pão de queijo,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'eae_guizin_', 'name': 'A$$I$', 'id': 1376279299209232386, 'id_str': '1376279299209232386', 'indices': [0, 12]}], 'symbols': []}"
+2021-05-10 14:40:03,Tem uma coca cola no meu rato,['Coca cola'],"Coronel Fabriciano, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'faeljunq', 'name': 'fæl foi zucado', 'id': 1245095422953226240, 'id_str': '1245095422953226240', 'indices': [3, 12]}], 'symbols': []}"
+2021-05-10 14:40:21,minha coca cola bebe rato,['Coca cola'],"Coronel Fabriciano, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:40:30,"""teste de caráter 
 
-COMPARTILHE😉",['Nubank'],Brasil,"{'hashtags': [{'text': 'AprovaPL2564', 'indices': [53, 66]}], 'urls': [], 'user_mentions': [{'screen_name': 'GeohingtonB', 'name': 'GB', 'id': 1166632429668446208, 'id_str': '1166632429668446208', 'indices': [3, 15]}, {'screen_name': 'mayve___', 'name': 'Mayve', 'id': 1022277131961868289, 'id_str': '1022277131961868289', 'indices': [17, 26]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [27, 34]}], 'symbols': []}"
-2021-05-04 12:41:43,@nubank @AckisaMayra A resposta sempre é triste :(((((((((((((((((( kkkk,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}, {'screen_name': 'AckisaMayra', 'name': 'Áckisa Octa (33-32)🧚🏼\u200d♀️✭', 'id': 1531346412, 'id_str': '1531346412', 'indices': [8, 20]}], 'symbols': []}"
-2021-05-04 12:41:47,Primeira ficada e ele já me pediu uma blusa da Nike,['Nike'],"Vila Velha, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:41:55,A nubank ameaçou bloquear meu cartão se não pagasse a fatura kkk,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:42:13,como assim a Nubank tá aumentando o limite dos outros e o meu nada 😔,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:42:40,Já no aguardo do e-mail que vai desanimar o resto do dia,[],Brazil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:42:44,Todo mundo ganhando aumento no limite do nubank e eu tendo o pedido do aumento recusado: 🤡🤡🤡,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:42:44,eu simplesmente ODEIO a @nubank,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [24, 31]}], 'symbols': []}"
-2021-05-04 12:42:48,"achei que meu pai não iria pagar o boleto da shein... mas ele foi bonzinho 🥺💜, lá vai eu ficar ansiosa pra chegar as coisas",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:43:13,Toda vez que eu vejo Nubank nos trending me sobe uma agonia de medo de ser uma notícia ruim &amp; catastrófica.,['Nubank'],Idris,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:43:28,"Recebi a encomenda da shein, finalmente acertei nos tamanhos, mas a coleira que mandei vir para o lord é pequena, meu eu nunca acerto 🤦🏻‍♂️",['SHEIN'],Setúbal,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:43:31,@IsisOfMine @Rodrigolps_ @nubank Vc tem q pagar no dia ou um dia antes,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'IsisOfMine', 'name': 'Isah', 'id': 1287055173542715395, 'id_str': '1287055173542715395', 'indices': [0, 11]}, {'screen_name': 'Rodrigolps_', 'name': 'lovezinho', 'id': 487731479, 'id_str': '487731479', 'indices': [12, 24]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [25, 32]}], 'symbols': []}"
-2021-05-04 12:43:52,"@nubank Poxa, já são 6 anos de anos pontuais sem que eu não tenha sido agraciado em nenhuma delas :/",['Nubank'],Mariana-Mg,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 12:43:53,"a humilhação do pobre, todos com aumento de limite no nubank e o meu nada 🤡",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:44:11,ia comprar meu presente de aniversário no shopping mas acho q vou pegar no site da nike,['Nike'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:44:14,"ai @nubank tou vendo várias postagens de pessoas que tiveram seus limites aumentados hoje, tou esquecido no churrasco? 😩",['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [3, 10]}], 'symbols': []}"
-2021-05-04 12:44:22,"@nubank bem que podia aumentar meu limite ein, eu pago tudo certinho",['Nubank'],"São Luís, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 12:44:47,C6 é bem melhor que Nubank,['Nubank'],"Belo Horizonte, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:45:02,Nubank aumentando o limite de geral mas o meu.........,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:45:21,eu acho q guaraná antártica pisa mt em coca-cola,['Coca-cola'],"Recife, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'cxiovinicius', 'name': 'atlas', 'id': 1078070813641838592, 'id_str': '1078070813641838592', 'indices': [3, 16]}], 'symbols': []}"
-2021-05-04 12:45:44,to na duvida se vale mais a pena comprar roupa na shein ou na wish,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:45:50,"@nubank  me atende, só queria tirar uma dúvida :(",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 12:45:53,Montei a seleção da Nike pra pegar esse time contra 21:00,['Nike'],Em outro patamar / Nilópolis,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:45:53,Gostosoooo,[],"Nilocrime, RJ","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'jenifersantos34', 'name': 'Jeninha🔥', 'id': 472399370, 'id_str': '472399370', 'indices': [3, 19]}], 'symbols': []}"
-2021-05-04 12:46:00,"Vamos concordar que o Banco Inter é o melhor banco.
-E o Nubank só serve pra render os centavos, mas vai sacar pra te ver o absurdo.",['Nubank'],"Macapá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:46:01,Nubank aumentando meu limite é mó perigo kkkk,['Nubank'],Embu,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:46:05,"@RafaelF73578867 @BlogdoSaoPaulo @centauroesporte @sigaNetshoes @adidasbrasil @Nike Vendas da Nike, são exclusivas da Centauro! #informei",['Nike'],São Paulo - SP,"{'hashtags': [{'text': 'informei', 'indices': [128, 137]}], 'urls': [], 'user_mentions': [{'screen_name': 'RafaelF73578867', 'name': 'Rafael Felipe', 'id': 1213451510866038784, 'id_str': '1213451510866038784', 'indices': [0, 16]}, {'screen_name': 'BlogdoSaoPaulo', 'name': 'saopauloblog ❤🤍🖤', 'id': 27694036, 'id_str': '27694036', 'indices': [17, 32]}, {'screen_name': 'centauroesporte', 'name': 'centauroesporte', 'id': 17678527, 'id_str': '17678527', 'indices': [33, 49]}, {'screen_name': 'sigaNetshoes', 'name': 'Netshoes', 'id': 44447786, 'id_str': '44447786', 'indices': [50, 63]}, {'screen_name': 'adidasbrasil', 'name': 'adidasbrasil', 'id': 42894971, 'id_str': '42894971', 'indices': [64, 77]}, {'screen_name': 'Nike', 'name': 'Nike', 'id': 415859364, 'id_str': '415859364', 'indices': [78, 83]}], 'symbols': []}"
-2021-05-04 12:46:18,mto lindo q inferno,[],"Nilocrime, RJ","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lightskinnalice', 'name': 'rainha do love song', 'id': 861180256568397824, 'id_str': '861180256568397824', 'indices': [3, 19]}], 'symbols': []}"
-2021-05-04 12:46:25,Fazendo umas comprinhas na shein,['SHEIN'],"Colômbia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:46:27,"tamo juntão nubank, pode aumentar mais esse limite",['Nubank'],"Aracaju, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:05,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}"
-2021-05-04 12:47:06,Shein por acaso é só pra mulheres mano ????? Acabei de baixar e só aparece coisa feminina,['SHEIN'],"Itu, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:06,"Falei que melhoraria minha alimentação essa semana, eis que estou tomando Coca Cola no café da manhã",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:19,@rafaamarqss Ijsdjskskskskakka o pijama era da shein?,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rafaamarqss', 'name': 'rafa do vigor', 'id': 981542997958561792, 'id_str': '981542997958561792', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 12:47:24,só qria ta saindo com ela cm nois dois trajados de Nike,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:30,@hesceleb shein ne filhao KKKK quem me dera ter dinheiro pra comprar coisa na gucci ou prada,['SHEIN'],only harry,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'hesceleb', 'name': 'guh| Chester e Farofa', 'id': 1370818401485086724, 'id_str': '1370818401485086724', 'indices': [0, 9]}], 'symbols': []}"
-2021-05-04 12:47:39,ok agora tudo que eu quero é um nike pixelado 🥵,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:39,só qria ta saindo cm ele cm nois dois trajados de Nike,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:47:47,@_joaopgatti @sophiaemanuella @nubank quando você pede aumento aí mesmo é que não aumentam e tu vai pruma espécie de “final de fila”,['Nubank'],"Sunyshore City, Sinnoh","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_joaopgatti', 'name': 'xota pê', 'id': 1256108838526373889, 'id_str': '1256108838526373889', 'indices': [0, 12]}, {'screen_name': 'sophiaemanuella', 'name': 'sofia', 'id': 1110361523967455232, 'id_str': '1110361523967455232', 'indices': [13, 29]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [30, 37]}], 'symbols': []}"
-2021-05-04 12:47:52,"@PauloRMelo Algumas empresas com bastante Elixir: Delivery Center, Bcredi, Stone, Nubank, Magnetis, SumUp, Trybe",['Nubank'],"Curitiba, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'PauloRMelo', 'name': 'Paulo Melo', 'id': 61281540, 'id_str': '61281540', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 12:48:22,"@lorenachss Aqui tb, até a própria SHEIN tá mais atualizada",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'lorenachss', 'name': '𝕷𝖔𝖗𝖊𝖓𝖆', 'id': 340021930, 'id_str': '340021930', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 12:48:58,shein é confiável gente?,['SHEIN'],Brazil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:48:59,e aí nubank vai aumentar meu limite não?,['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:49:03,"Depois de 5 meses com o cartão de débito da nubank, hoje eles liberaram o de crédito com o limite de 200 reais rs! Até q enfim🙏🏼",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:49:05,Alguem pra me ajudar? @nubank,['Nubank'],Lomas de zamora,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [22, 29]}], 'symbols': []}"
-2021-05-04 12:49:06,"Wonho &amp; Nike 
+nike ou adidas?""
 
-Vem ai, confia",['Nike'],@hwaberryberry is my girl💕,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:49:18,@amazonilio daddy dá academia e tênis nike,['Nike'],sei não ó ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'amazonilio', 'name': 'venti do agreste', 'id': 1042281715677454337, 'id_str': '1042281715677454337', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 12:49:28,Acho que minhas compras do shein se perderam no meio do caminho ou o caminhão capotou e perdeu elas,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:49:51,"Pedido em trânsito 🤦🏽‍♀️
-Shein enrola em 😒",['SHEIN'],CRVG,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:49:55,@hswift89 mais compra toda semana na shein neh o burguêsa safada,['SHEIN'],1994,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'hswift89', 'name': 'leeh', 'id': 1381348072542855172, 'id_str': '1381348072542855172', 'indices': [0, 9]}], 'symbols': []}"
-2021-05-04 12:50:03,eu só queria conseguir para de tomar Coca Cola mds,['Coca cola'],"Jaraguá do Sul, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:50:08,"acho que vou precisar deixar meu nome ir pro spc, dever pra um agiota, perder minha casa num jogo de azar pra @nubank aumentar meu limite",['Nubank'],"zona leste, sp","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [110, 117]}], 'symbols': []}"
-2021-05-04 12:50:13,"acho que vou precisar deixar meu nome ir pro spc, dever pra um agiota, perder minha casa num jogo de azar pra @nubank aumentar meu limite",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'thlndrd', 'name': 'thalia', 'id': 912828433, 'id_str': '912828433', 'indices': [3, 11]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [123, 130]}], 'symbols': []}"
-2021-05-04 12:50:29,"@adiirjr Sim, eles são. Mas se fala de Android/xiaomi o adir pira, ai n pode. 🥰🤪",['Xiaomi'],"Blumenau, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'adiirjr', 'name': 'Adir', 'id': 1069561194602786817, 'id_str': '1069561194602786817', 'indices': [0, 8]}], 'symbols': []}"
-2021-05-04 12:50:30,tem uma hora que tô presa na shein olhando roupa,['SHEIN'], 𝐉𝐈𝐌𝐈𝐍. 친절하고 사랑스러운 ❥︎ 섹시하고 귀여운 지민이 ... 🜲   그것은 소년 ♡︎ 강하고 재능있는 ✩,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 12:50:31,@LaraHino_ o q é shein?,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'LaraHino_', 'name': 'Lara', 'id': 1172675605, 'id_str': '1172675605', 'indices': [0, 10]}], 'symbols': []}"
-created_at,tweet_content,keyword,user_location,entities
-2021-05-04 13:01:01,@nubank aumenta meu limite nunk? 😩,['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:01:38,Sou uma piada para o @nubank 🤡,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [21, 28]}], 'symbols': []}"
-2021-05-04 13:01:42,"#Nubank 
+Puma",['Nike'],89' 90'+2,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:40:31,"Estatura média ✅
+Joga futebol como um Deus ✅
+Usa Nike ✅
+Pretinho ✅
+Postura de jogador caro ✅
+Nunca perdeu 1x1 ✅
 
-Preciso de 10 mil de limite 
+Tudo isso no pai aqui 🤗🙅🏾‍♂️",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'iuryLima07', 'name': 'ɪᴜʀʏ ʟɪᴍᴀ 🇵🇹🌟', 'id': 1168654527567945733, 'id_str': '1168654527567945733', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:40:33,@l_cocate Eu gosto dms de adidas Nike tem uns tênis feio dms,['Nike'],Guarapuava PR ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'l_cocate', 'name': 'cocate', 'id': 1230544319599271936, 'id_str': '1230544319599271936', 'indices': [0, 9]}], 'symbols': []}"
+2021-05-10 14:40:41,meu Deus que vontade de comer umas 50 coxinhas e um litro de coca cola bem gelada cm limão,['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'angelicxl_tarot', 'name': 'gabs', 'id': 1294456781251518470, 'id_str': '1294456781251518470', 'indices': [3, 19]}], 'symbols': []}"
+2021-05-10 14:40:57,vcs já compraram na shein??,['SHEIN'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:40:58,@sep_bella_ nike com ctz,['Nike'],duds ♡,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sep_bella_', 'name': 'isa✨', 'id': 1187345880938098688, 'id_str': '1187345880938098688', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:41:02,"Eai shein, vai soltar minhas roupas não ???",['SHEIN'],no mundão,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:41:05,"to indecisa lacoste ou nike, fodase eu vou gastar",['Nike'],"Tremp, España","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:41:19,@FlashFlash123 Joga uma calça abóbora e um blusão quadriculado vai ficar da hora junto de um all star da Nike,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '7meaa2', 'name': '5 k', 'id': 1267658951933526017, 'id_str': '1267658951933526017', 'indices': [3, 10]}, {'screen_name': 'FlashFlash123', 'name': 'Miguel💙💙', 'id': 2925083743, 'id_str': '2925083743', 'indices': [12, 26]}], 'symbols': []}"
+2021-05-10 14:41:23,Queria uma coca cola bem gelada agr,['Coca cola'],"Campos dos Goytacazes, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:41:41,"coca cola tá começando a me fazer mal, toda vez q bebo sinto uma dor forte na barriga",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:41:43,minha coca cola bebe rato,['Coca cola'],bh,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'r_sepalmeiras', 'name': '“Isso foi realmente muito cringe”', 'id': 3293496236, 'id_str': '3293496236', 'indices': [3, 17]}], 'symbols': []}"
+2021-05-10 14:41:45,@moraessfc @nubank se equivocou,['Nubank'],"Guarujá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'moraessfc', 'name': 'yag 🦈', 'id': 979899361751719941, 'id_str': '979899361751719941', 'indices': [0, 10]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [11, 18]}], 'symbols': []}"
+2021-05-10 14:41:51,"⚠️teste de caráter ⚠️
 
-Nunca pedi nada pra vcs 🤣",['Nubank'],None,"{'hashtags': [{'text': 'Nubank', 'indices': [17, 24]}], 'urls': [], 'user_mentions': [{'screen_name': 'luizamodell', 'name': 'Maria Luíza 💋', 'id': 1167037029672202240, 'id_str': '1167037029672202240', 'indices': [3, 15]}], 'symbols': []}"
-2021-05-04 13:01:58,"Entro no site da Nike é pergunto,pq não sou rico 🤦‍♂️🤯",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:02:23,sofrendo p achar uma jaqueta da nike d nba,['Nike'],021,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:02:31,@S2NTXS tipo coca cola nos mentos nós tamos a explodir?,['Coca cola'],Cuba,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'S2NTXS', 'name': 'santos !! 🗣', 'id': 1256577388156260356, 'id_str': '1256577388156260356', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:02:32,@xbabimonteiro acordei com essa linda mensagem porém o aumento foi só de 10 reais. nubank eu sou uma piada pra vc?,['Nubank'],Brasília,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'xbabimonteiro', 'name': 'Babuxa', 'id': 1361471889089171456, 'id_str': '1361471889089171456', 'indices': [0, 14]}], 'symbols': []}"
-2021-05-04 13:02:33,nubank bem que podia me dar um limite de 50000,['Nubank'],"Maceió, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:03:09,@SHOUYOPlCS perfume da Boticário e jogador de lol,['Boticário'],dc: Naomi Aiko#4324    (ela/u),"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SHOUYOPlCS', 'name': 'foo', 'id': 1370423030766317568, 'id_str': '1370423030766317568', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 13:03:00,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],"Manaus, AM, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}"
-2021-05-04 13:02:55,"Nubank aumenta meu limite mas não aumenta meu salário, aí é foda",['Nubank'],"Rio Grande do Sul, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:03:23,Meu dedinho ta coçando pra finalizar meu carrinho de compras na shein,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:03:44,que absurdo,[],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'dudinha', 'name': 'dudinha', 'id': 3626009357, 'id_str': '3626009357', 'indices': [3, 11]}], 'symbols': []}"
-2021-05-04 13:03:48,eu acho q guaraná antártica pisa mt em coca-cola,['Coca-cola'],"Goiânia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'cxiovinicius', 'name': 'atlas', 'id': 1078070813641838592, 'id_str': '1078070813641838592', 'indices': [3, 16]}], 'symbols': []}"
-2021-05-04 13:03:51,"@nubank Já pedi. Uso muito, pago sempre em dia e tenho que utilizar outros cartões porque só o nu não suporta meus gastos..
-Poxinha 🥺",['Nubank'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:04:14,O dia que o @nubank aumentar o meu limite vai ser um milagre e tanto...,['Nubank'],#she/her ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [12, 19]}], 'symbols': []}"
-2021-05-04 13:04:15,pensando em compra uma calça da shein sera,['SHEIN'],＠lena,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:16,único relacionamento tóxico que eu tenho é com o nubank,['Nubank'],"Araporã, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Jean_CarlossR', 'name': 'Jean', 'id': 1010430409644093441, 'id_str': '1010430409644093441', 'indices': [3, 17]}], 'symbols': []}"
-2021-05-04 13:04:17,Vcs reclamando da Nubank e eu super feliz q meu crédito foi de 50 reais pra 70 🤡🤡🤡,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:48,Os meus 800 pontos da SHEIN voltaram 🥰,['SHEIN'],🌸Portugal,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:34,exercendo minha burguesia e fazendo comprinhas na shein,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:53,ainda bem q q nubank n aumentou meu limite igual de um pessoal aí 800 conto pra mim já é muito,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:58,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],onde tiver álcool ,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:01,Vejo Nubank nos TT’s e já imagino qual a merda da vez,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:04:52,"Nubank tinha que parar com essa porra de descontar 6,50 quando retira dinheiro no caixa",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:08,"Frio bom pra continuar na cama, maaaas... os kit da Nike não cai do céu ne parça, bora trabalhar",['Nike'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:18,Lojinhas do insta q compra roupa na shein e vende como se fosse produção exclusiva,['SHEIN'],clareira na mata - 012 ,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:25,@BNakamatsu Xiii mudando de assunto eu to criando uma conta no nubank deposita 25 mil aqui rapidao so pra eu ver se ta funcionando normal,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'BNakamatsu', 'name': 'Bia Nakamatsu', 'id': 1261374350537691142, 'id_str': '1261374350537691142', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 13:05:33,nao to enchendo o carrinho da shein nao,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:35,"@scarlagabs eu tava em dúvida entre as duas mesmo! Pra PF a Nubank é ótima, mas não vi muita vantagem pra PJ.",['Nubank'],Juiz de Fora - MG,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'scarlagabs', 'name': 'gabs', 'id': 1006941098265272322, 'id_str': '1006941098265272322', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 13:05:48,E a Nubank segue aumentando mais e mais o meu crédito,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:05:53,"próximo carnaval eu irei passar com o umbigo furado, copinho pendurado no ombro, nike no pé e fantasia de jasmine, me aguardem",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-created_at,tweet_content,keyword,user_location,entities
-2021-05-04 13:10:44,"@nubank nos trendings de aumento de limite, e eu abrindo app atoa 🥲",['Nubank'],"Vitória, ES","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:10:45,@ninaoliveira___ @nubank Quando eu fiz o objetivo era esse tbm kkkkk,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ninaoliveira___', 'name': 'ninoca do vigor', 'id': 1147254367101378565, 'id_str': '1147254367101378565', 'indices': [0, 16]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [17, 24]}], 'symbols': []}"
-2021-05-04 13:10:46,@Jeffers57695378 Onde fez essa tatuagem da nike refletida? braba💪,['Nike'],santissimo city,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Jeffers57695378', 'name': 'Neguinho café', 'id': 1138650505880711170, 'id_str': '1138650505880711170', 'indices': [0, 16]}], 'symbols': []}"
-2021-05-04 13:10:48,@nubank  aumento o limite de todo mundo e o meu continuando ZERO e eu tendo que usar o limite temporário,['Nubank'],My Bieber Experience,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:10:49,@nubank aumenta meu limite,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:10:52,Verde na mente Nike no pé,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:03,vendo todo mundo receber as coisas da shein ontem/hoje menos eu 🤯🤯😞😞😞,['SHEIN'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:04,@nubank responde dm rapaz,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:11:05,ódio anal do site da nike só queria comprar um dunkzinho,['Nike'],Brazil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:08,"@dearschafer Eu na vida 🤦🏽‍♀️ 🤦🏽‍♀️ 🤣🤣
-Pra ter crédito tem que por crédito 🙄😒
-Melhor comprar à vista né dona @nubank 🤷",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Thamires_Dias12', 'name': 'Thamires🖤', 'id': 1040240031460405250, 'id_str': '1040240031460405250', 'indices': [3, 19]}, {'screen_name': 'dearschafer', 'name': 'f', 'id': 856854031, 'id_str': '856854031', 'indices': [21, 33]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [130, 137]}], 'symbols': []}"
-2021-05-04 13:11:09,"eeeeguas, eu não deixava @nubank",['Nubank'],"São Luís, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'julianerys_', 'name': ""don't call me anjão"", 'id': 171442438, 'id_str': '171442438', 'indices': [3, 15]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [42, 49]}], 'symbols': []}"
-2021-05-04 13:11:14,@nubank sem tempo irmao,['Nubank'],"Anápolis, 🇧🇷","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:11:26,@Xetdoinvesting @nubank tão falando de ti aqui,['Nubank'],"São Luís, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Xetdoinvesting', 'name': 'Xet do investing', 'id': 1225433724004728832, 'id_str': '1225433724004728832', 'indices': [0, 15]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [16, 23]}], 'symbols': []}"
-2021-05-04 13:11:27,queria um bolo de cenoura com cobertura de chocolate e uma coca cola gelada 🤤,['Coca cola'],"Resende, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:35,@_gabriel_geno_ ela e da shein,['SHEIN'],"São Bernardo do Campo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_gabriel_geno_', 'name': 'geno', 'id': 1132689273700929536, 'id_str': '1132689273700929536', 'indices': [0, 15]}], 'symbols': []}"
-2021-05-04 13:11:36,@imnotlyarax é da shein mas eu nao acho ela la vei,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'imnotlyarax', 'name': 'ly random', 'id': 1183491845650894848, 'id_str': '1183491845650894848', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 13:11:49,vou até dar uma olhadinha no meu nubank aq pfvr roxinho aumenta meu limite pra 1000 conto mesmo eu n ganhando 1 real por mes,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:49,"qual que é o nubank tá aumentando o limite de crédito de todo mundo, mas pro bobo aqui foram incríveis zero reais né",['Nubank'],My Bieber Experience,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:11:56,Boticário coloca o sérum novo da Manu em promoção e eu digo se esperava ou não,['Boticário'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:12:05,@nubank Cadê meu aumento de limite ?,['Nubank'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:12:11,muita vtd d beber uma coca cola bem gelada 😡,['Coca cola'],-♥ final contente 😝 ,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:12:20,pq a Nubank nunca aumenta a bosta do meu limite,['Nubank'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:12:37,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],BRA,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}"
-2021-05-04 13:12:42,pq a Nubank nunca aumenta a bosta do meu limite,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'NBrunn1_', 'name': 'NaBru', 'id': 978245198462451712, 'id_str': '978245198462451712', 'indices': [3, 12]}], 'symbols': []}"
-2021-05-04 13:12:43,@nubank Cadê o #ApplePay????,['Nubank'],None,"{'hashtags': [{'text': 'ApplePay', 'indices': [15, 24]}], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:12:51,@ouotison @nubank Qual foi o concorrente????,['Nubank'],Ovelhas negras,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ouotison', 'name': 'Watson Andrade', 'id': 3245501200, 'id_str': '3245501200', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [10, 17]}], 'symbols': []}"
-2021-05-04 13:12:56,@sirati_joao @nubank caralho me empresta 1000 ai,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sirati_joao', 'name': 'Sirati', 'id': 1061798275991388160, 'id_str': '1061798275991388160', 'indices': [0, 12]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [13, 20]}], 'symbols': []}"
-2021-05-04 13:12:57,@NBrunn1_ Alô @nubank aumenta aiii,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'NBrunn1_', 'name': 'NaBru', 'id': 978245198462451712, 'id_str': '978245198462451712', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [14, 21]}], 'symbols': []}"
-2021-05-04 13:13:08,nike eu te amo mt mas tbm te odeio,['Nike'],MS,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:13:11,"sonhei que tava comendo coxinha e tomando coca-cola e do nada DO NADA nicole kidman entrou em meu sonho pra ir comprar também, aí a moça do caixa tava mó confusa com meu dinheiro, a nicole se meteu pra contar o meu dinheiro pra mulher e eu mandei ela tomar conta da vida dela",['Coca-cola'],moscow,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:13:11,"@nubank WWERRRRAAAAARRAARRRRRR
+      Nike ou Adidas",['Nike'], RJ,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:41:52,@taakiofc Melhor cafe da manhã na minha opinião é pizza fria e coca cola gelada,['Coca cola'],"Pão de queijo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'taakiofc', 'name': 'Taki⁷muleque comedor de isopor', 'id': 1360274901354115072, 'id_str': '1360274901354115072', 'indices': [0, 9]}], 'symbols': []}"
+2021-05-10 14:41:54,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ifobscuro', 'name': 'IF Obscuro', 'id': 4797529240, 'id_str': '4797529240', 'indices': [3, 13]}], 'symbols': []}"
+2021-05-10 14:42:02,AI MEU CARTÃO DE CRÉDITO QUE NÃO CAI O DINHEIRO NUNCA VA TOMAR NO CU @nubank,['Nubank'],Guaratinguetá,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [69, 76]}], 'symbols': []}"
+2021-05-10 14:42:22,"comprando na shein
 
-Tradução: aumenta meu limite 👀
+da china pro brasil: 3 dias
+de curitiba pra aracaju: um século",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sa_nalu', 'name': 'analu', 'id': 826167450064416769, 'id_str': '826167450064416769', 'indices': [3, 11]}], 'symbols': []}"
+2021-05-10 14:42:23,"fica fria ai nubank
+vou te pagar n",['Nubank'],Diadema SP,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:42:40,hoje so um cheddar do mc batatinha e coca cola poderiam me deixar feliz,['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:42:51,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:42:52,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],"Cruzeiro do Sul, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:42:54,"maior roubado da vida esse smartphone, me ajude Xiaomi 🤡",['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:08,fiquei uma grande gostosa com as roupas da shein,['SHEIN'],💕,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:09,"isso mesmo fêmea continua diminuindo qm usa cropped e short 
+Tá lindo, mesmo
+Amo seu estilo diferenciado 
+💫shein💫",['SHEIN'],"Passos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:12,"To mó triste, um tenis novo da nike iria melhorar rapidin",['Nike'],"Itaperuna, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:26,@rxgerguedes as roupas da nike são tudo mas tem uns tênis que melhor amor de deus,['Nike'],gabinutil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rxgerguedes', 'name': 'lincoln', 'id': 984741631810301952, 'id_str': '984741631810301952', 'indices': [0, 12]}], 'symbols': []}"
+2021-05-10 14:43:30,"Nubank, pare de me oferecer seguro de vida e me ofereça um empréstimo 😩",['Nubank'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:47,"@camillebaleeir3 Você tem iphone, não anda com xiaomi",['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'camillebaleeir3', 'name': 'camille baleeiro 🤪', 'id': 1353893505551233024, 'id_str': '1353893505551233024', 'indices': [0, 16]}], 'symbols': []}"
+2021-05-10 14:43:48,O nubank aumentou meu limiteee 🥰🥰 (msm n tendo de onde tirar pra pagar) KKKKKKK,['Nubank'],"Imperatriz, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:43:59,Gatinha que só usa nike kkkkk bo beber umas quando ?,['Nike'],"Ceilândia, Brasília","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:44:15,"hj ia perdendo todos os meus pontos da shein á pala da ellen, passei-me durante uns 5min até os conseguir de volta",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:44:37,"@eumatheussr nike, nem tem competição",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'eumatheussr', 'name': 'matheus☔ˢᶜᶜᵖ', 'id': 1290707959845212160, 'id_str': '1290707959845212160', 'indices': [0, 12]}], 'symbols': []}"
+2021-05-10 14:44:59,"Eu vendo review de xiaomi até que:
 
-Brincadeira, não precisa, mas se quiser tô aceitando 👀😁",['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:13:18,oq eh q nubank aumentando o limite de todo mundo menos o meu?? quero gastar seus filha da puta,['Nubank'],South Africa,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'juavnn', 'name': 'Julia', 'id': 4873256859, 'id_str': '4873256859', 'indices': [3, 10]}], 'symbols': []}"
-2021-05-04 13:13:20,@nubank Aumentaaaa meu limiteeeeeee,['Nubank'],Ovelhas negras,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:13:20,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}"
-2021-05-04 13:13:26,"@_gabriel_geno_ tem que ser na shein? é que quando coloquei no google só aparaceu aliexpress, amazon e algumas outras",['SHEIN'],tua glória é lutar.,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_gabriel_geno_', 'name': 'geno', 'id': 1132689273700929536, 'id_str': '1132689273700929536', 'indices': [0, 15]}], 'symbols': []}"
-2021-05-04 13:13:27,@brunosouzaf10 @nubank eu não vou nem te responder pra evitar a fadiga e não mandar você pra casa do caralho,['Nubank'],"Duque de Caxias, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'brunosouzaf10', 'name': 'Bruno ᶜʳᶠ', 'id': 3379734113, 'id_str': '3379734113', 'indices': [0, 14]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [15, 22]}], 'symbols': []}"
-2021-05-04 13:13:32,"@fadinhadd @nubank É de uma corretora de valores, a @modalmais",['Nubank'],"Goiânia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'fadinhadd', 'name': 'princesinha ?', 'id': 53802795, 'id_str': '53802795', 'indices': [0, 10]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [11, 18]}, {'screen_name': 'modalmais', 'name': 'modalmais', 'id': 2578778256, 'id_str': '2578778256', 'indices': [52, 62]}], 'symbols': []}"
-2021-05-04 13:13:33,pq a Nubank nunca aumenta a bosta do meu limite,['Nubank'],bh ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'NBrunn1_', 'name': 'NaBru', 'id': 978245198462451712, 'id_str': '978245198462451712', 'indices': [3, 12]}], 'symbols': []}"
-2021-05-04 13:13:36,"Papo reto:
-Pago R$200 pra quem me emprestar o cartão de crédito pra eu comprar um celular pra conseguir trabalhar. Sou uma excelente pagadora (explico na dm o pq), só não compro do meu pq a @nubank me deu um limite muito baixo 😭",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'EshHaughton', 'name': '☀️🧡Eshiley Haughton 👑⚡🏆', 'id': 1168737090831560704, 'id_str': '1168737090831560704', 'indices': [3, 15]}], 'symbols': []}"
-2021-05-04 13:13:38,"Nubank aumentou o limite do meu marido que tá desempregado, mas o meu não
+⭐⭐⭐⭐⭐
+Muito bom esse celula rodou lisinho free fire
 
-Carteira assinada pra que?🤡🤡",['Nubank'],"São José dos Campos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:13:39,"@nubank esperei tanto pelo aumento e vc me da só 10,00? eu sou uma piada pra vc?",['Nubank'],Brasília,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:13:42,@nubank Melhorem o atendimento virtual e respondam a DM,['Nubank'],"Recife, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:13:44,"Ainda bem que a Nubank não aumentou o meu limite pq eu não tenho dinheiro pra sustentar nem oq tenho, imagina mais kk",['Nubank'],"Campo Grande, Rio de Janeiro","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:13:55,"@promodelivro A falta que um cartão de crédito faz... @nubank aprova tudo e todos, menos eu. Já desisti da vida",['Nubank'],"Pernambuco, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'promodelivro', 'name': 'Promo De Livro', 'id': 1260963792487362561, 'id_str': '1260963792487362561', 'indices': [0, 13]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [54, 61]}], 'symbols': []}"
-2021-05-04 13:14:02,Doida pro cartão virar pra comprar na Shein. Carrinho tá cada vez mais barrotado 😳,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:14:04,site da nike um grande lixo,['Nike'],"Itapetininga, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:14:05,"Nubank aumentando meu limite é o sinal que eu precisava pra montar um computador novo
+Eh sobre isso....",['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:08,Tem coisa melhor em aniversário de criança do que cachorro quente com coca cola? 😂🤦🏻‍♂️,['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:09,Malhar pra ficar com um corpo bonito e comprar minhas roupas da Shein,['SHEIN'],"Pernambuco, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:11,Demorando super para cair esse pagamento da nubank pqp!,['Nubank'],"Niterói, RJ","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:17,Tô chocado que o perfil oficial da coca cola respondeu um tt meu ❤️,['Coca cola'],"Maceió, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:20,@GuuuuhSantana @nubank duvidei do melhor man,['Nubank'],"Guarujá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'GuuuuhSantana', 'name': 'AGOSTUV', 'id': 2782824163, 'id_str': '2782824163', 'indices': [0, 14]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [15, 22]}], 'symbols': []}"
+2021-05-10 14:45:25,Já tá chato essas notificações do @nubank oferendo seguro de vida,['Nubank'],BH-MG,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [34, 41]}], 'symbols': []}"
+2021-05-10 14:45:33,Nubank meu dinheiro....,['Nubank'],goias,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:38,Minhas roupas da shein tão indo pra serra 😜😜😜😜,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:45:38,"cheguei a 909 pontos na SHEIN e fiz minha primeira compra, Deus abençoe os reais de desconto que ganhei 🙏🏽",['SHEIN'],"Mato Grosso, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:46:10,"Estatura média ✅
+Joga futebol como um Deus ✅
+Usa Nike ✅
+Pretinho ✅
+Postura de jogador caro ✅
+Nunca perdeu 1x1 ✅
 
-Só falta arrumar um emprego pós formatura mesmo",['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:14:08,mano vai tomar no cu  o site da Nike é do caralho viu que odio,['Nike'],"Guarujá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:14:15,@ninparra @nubank Amiga eu recebo meu salário por ali kkkkkkkk tudo,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ninparra', 'name': 'banana', 'id': 1164563484606119936, 'id_str': '1164563484606119936', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [10, 17]}], 'symbols': []}"
-2021-05-04 13:14:24,"@nubank paguei minha fatura q vence dia 18 bem adiantada, tu n percebe q estou fazendo de tudo p ganhar um aumento de limite n!? 🥺🥺🥺😜😜😜",['Nubank'],"Porciúncula, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:14:28,@ouotison @nubank @modalmais Tô precisando de fazer mais cartões será que eles me liberam + que nu tbm ?,['Nubank'],Ovelhas negras,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ouotison', 'name': 'Watson Andrade', 'id': 3245501200, 'id_str': '3245501200', 'indices': [0, 9]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [10, 17]}, {'screen_name': 'modalmais', 'name': 'modalmais', 'id': 2578778256, 'id_str': '2578778256', 'indices': [18, 28]}], 'symbols': []}"
-2021-05-04 13:14:45,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rangelweslley5', 'name': 'uerlei', 'id': 3356029973, 'id_str': '3356029973', 'indices': [3, 18]}], 'symbols': []}"
-2021-05-04 13:14:46,@Andrezzin_cec @nubank kkkkkkkkno fundo eu agradeço por n aumentar,['Nubank'],"Contagem, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Andrezzin_cec', 'name': 'Mendes 🦊🇮🇹', 'id': 2324338861, 'id_str': '2324338861', 'indices': [0, 14]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [15, 22]}], 'symbols': []}"
-2021-05-04 13:14:46,e meu cartão da nubank que nunca chega,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:14:56,"@crisvector Eu só uso @pumabrasil e @Nike, mesmo! Hahhahaa adidas nazi nunca me enganou",['Nike'],"São José dos Campos, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'crisvector', 'name': 'Cris', 'id': 17984064, 'id_str': '17984064', 'indices': [0, 11]}, {'screen_name': 'pumabrasil', 'name': 'pumabrasil', 'id': 281551749, 'id_str': '281551749', 'indices': [22, 33]}, {'screen_name': 'Nike', 'name': 'Nike', 'id': 415859364, 'id_str': '415859364', 'indices': [36, 41]}], 'symbols': []}"
-2021-05-04 13:15:10,@nubank Ô NUBANK DÁ UMA OLHADINHA NA DM DEPOIS MEUS PATRÃO POR GENTILEZA,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:15:15,sonhei que fui taxada na compra que to esperando chegar da shein senhor vigia,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:15:22,"Nubank deve tá tirando uma com minha cara, liberaram um cartão de crédito pra mim com limite de $0,52 🤡🤡🤡🤡",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:15:25,@nubank Quero meu trofeuzinh Nu rsrrs,['Nubank'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:15:29,"Minhas roupas da shein chegaram no Brasil, amém",['SHEIN'],"Sarandi, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:15:33,"Tava me sentindo especial, entro no Twitter e descubro que Nubank deu aumento de limite pra todo mundo 🤡",['Nubank'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:15:37,"@vivianlana_ shein
-Amazon
-Antix (marca q eu compro meus vestidos)
-Shopee",['SHEIN'],🇮🇱,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vivianlana_', 'name': 'Viví Lana™ (ENCOMENDAS ABERTAS)', 'id': 1239583750561902593, 'id_str': '1239583750561902593', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 13:15:38,"A Nubank aumentou mais o meu limite, não sei se é bom isso.",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:15:40,"Pedi aumento de limite ontem e o @nubank n me deu, agora entro no twitter e ta todo mundo ganhando D:",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [33, 40]}], 'symbols': []}"
-created_at,tweet_content,keyword,user_location,entities
-2021-05-04 13:15:56,@Cruzeiro @EngajamentoCEC @10neto @Xiaomi  PATROCINA NOIS,['Xiaomi'],"Lavras, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Cruzeiro', 'name': 'Cruzeiro 🦊', 'id': 1562061097, 'id_str': '1562061097', 'indices': [0, 9]}, {'screen_name': 'EngajamentoCEC', 'name': 'Engajamento do Cruzeiro 🦊', 'id': 1283743493429571585, 'id_str': '1283743493429571585', 'indices': [10, 25]}, {'screen_name': '10neto', 'name': 'Craque Neto 10', 'id': 66458391, 'id_str': '66458391', 'indices': [26, 33]}, {'screen_name': 'Xiaomi', 'name': 'Xiaomi', 'id': 377228272, 'id_str': '377228272', 'indices': [34, 41]}], 'symbols': []}"
-2021-05-04 13:15:59,"@xlauralima @pleasenat não iria pra nubank não, 10 anos de cartão e todo mundo fala que demora séculos pra aumentar",['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'xlauralima', 'name': 'laura', 'id': 609784377, 'id_str': '609784377', 'indices': [0, 11]}, {'screen_name': 'pleasenat', 'name': 'nat⁷ 🧈', 'id': 2800273941, 'id_str': '2800273941', 'indices': [12, 22]}], 'symbols': []}"
-2021-05-04 13:16:06,"@vivianlana_ Oi meu anjooo tem vários lugares
-Mas eu compro as minhas na SHEIN sabe?",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vivianlana_', 'name': 'Viví Lana™ (ENCOMENDAS ABERTAS)', 'id': 1239583750561902593, 'id_str': '1239583750561902593', 'indices': [0, 12]}], 'symbols': []}"
-2021-05-04 13:16:08,"Mais uma vez o Nubank aumentou meu limite, n sabe o perigo q é 🤣",['Nubank'],RJ/zn,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:12,@Sousamarques94 Delta Plus é o Xiaomi,['Xiaomi'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Sousamarques94', 'name': 'Matheus', 'id': 775824223982026752, 'id_str': '775824223982026752', 'indices': [0, 15]}], 'symbols': []}"
-2021-05-04 13:16:13,Namoral @nubank aumenta meu limite disgraça!!! Vou ter que ir pro Inter msm é porra?!,['Nubank'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [8, 15]}], 'symbols': []}"
-2021-05-04 13:16:17,Todo mundo ganhando aumento no limite do nubank e eu tendo o pedido do aumento recusado: 🤡🤡,['Nubank'],"Piauí, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:18,@legadaodamassa @nubank não acredito que vc vai mesmo pagar as dívida do Fuik,['Nubank'],"Campinas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'legadaodamassa', 'name': 'LEGADÃO DO VIGOR™', 'id': 3875236456, 'id_str': '3875236456', 'indices': [0, 15]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [16, 23]}], 'symbols': []}"
-2021-05-04 13:16:18,"@nubank Traduza ai, por gentileza.",['Nubank'],"Belo Horizonte, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
-2021-05-04 13:16:25,"Agora o nubank aumentou meu limite, posso nem pagar $50 imagina $400",['Nubank'],"Recife, Pernambuco","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:36,"Gente a campanha feat O boticário e Quem disse Berenice tá maraaa. Manu ,como sempre, Gênia❤",['Boticário'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:38,"6,50 de taxa, pra fazer um saque na nubank 😥",['Nubank'],Davi Luís 💙,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:44,"@_gabriel_geno_ mano eu nunca achei na shein, se mandarem o link me mamda pfvrr",['SHEIN'],Salvador/Bahia,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_gabriel_geno_', 'name': 'geno', 'id': 1132689273700929536, 'id_str': '1132689273700929536', 'indices': [0, 15]}], 'symbols': []}"
-2021-05-04 13:16:44,"Hoje o brasileiro só quer 2 coisas: classificação do PSG e JULIETTE Campeã.  
+Tudo isso no pai aqui 🤗🙅🏾‍♂️",['Nike'],✨na puta que pariu✨,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'iuryLima07', 'name': 'ɪᴜʀʏ ʟɪᴍᴀ 🇵🇹🌟', 'id': 1168654527567945733, 'id_str': '1168654527567945733', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:46:10,@CocaCola_Br Tô é besta que o perfil da coca cola me respondeu no tt,['Coca cola'],"Maceió, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'CocaCola_Br', 'name': 'Coca-Cola Brasil', 'id': 255537739, 'id_str': '255537739', 'indices': [0, 12]}], 'symbols': []}"
+2021-05-10 14:46:15,@killisabella só compro xiaomi por isso,['Xiaomi'],paradis,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'killisabella', 'name': 'Bella', 'id': 822268595187093505, 'id_str': '822268595187093505', 'indices': [0, 13]}], 'symbols': []}"
+2021-05-10 14:46:19,@nubank como faço pra cancelar a conta? uso a tanto tempo e o limite nem sai do lugar,['Nubank'],Recife,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:46:21,A MIUI 12.5 ainda vai chegar pra ele até junho de junho acho q não passa a Xiaomi já está desenvolvendo a MIUI 13,['Xiaomi'],Zona Segura de Alexandria,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:46:26,"Estatura média ✅
+Joga futebol como um Deus ✅
+Usa Nike ✅
+Pretinho ✅
+Postura de jogador caro ✅
+Nunca perdeu 1x1 ✅
 
-#JulietteDay Nubank Votando",['Nubank'],Seabra Bahia ,"{'hashtags': [{'text': 'JulietteDay', 'indices': [79, 91]}], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:51,acordei com vontade de comprar um nike parcelado em 50 vezes,['Nike'],"Santa Catarina, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:51,Última vez que o traviscote fez música boa o logo da Nike ainda era certo,['Nike'],"Curitiba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:53,dia difícil pra quem foi taxada na shein 🥲🥲,['SHEIN'],"Itabira, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:54,@stick_line Nubank tem conta jurídica,['Nubank'],"Juiz de Fora, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'stick_line', 'name': 'Stick Line', 'id': 45965876, 'id_str': '45965876', 'indices': [0, 11]}], 'symbols': []}"
-2021-05-04 13:16:56,Um mês e a Nike vai e cancela meu force que agora subiu o preço. Eu te odeio nike eu te odeio,['Nike'],"Indaiatuba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:16:58,"@MarabaCarlos fiz la no mix mateus e tem o da nubank, n dar certo drx kkkkkkkj",['Nubank'],"Tucuruí, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'MarabaCarlos', 'name': 'Carlos Zduardo Maraba', 'id': 1192649393188589568, 'id_str': '1192649393188589568', 'indices': [0, 13]}], 'symbols': []}"
-2021-05-04 13:17:01,A nubank so da limite alto pra quem n trabalha mesmo?,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
-2021-05-04 13:17:01,"Entro no site da Nike é pergunto,pq não sou rico 🤦‍♂️🤯",['Nike'],"Acapulco de Juárez, Guerrero","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'rhuancoutinho17', 'name': 'Coutinho 😼', 'id': 3079398399, 'id_str': '3079398399', 'indices': [3, 19]}], 'symbols': []}"
-2021-05-04 13:17:03,alguém aqui usa o cartão picpay ou nubank?,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+Tudo isso no pai aqui 🤗🙅🏾‍♂️",['Nike'],Tdd,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'iuryLima07', 'name': 'ɪᴜʀʏ ʟɪᴍᴀ 🇵🇹🌟', 'id': 1168654527567945733, 'id_str': '1168654527567945733', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:46:26,Minhas roupas da shein tão indo pra serra 😜😜😜😜,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:46:46,Toda vez q eu quero tomar coca cola minha mãe me lembra da celulite aí eu desisto,['Coca cola'],"Brasília, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:47:06,@nemfazsentido24 eu tmb tenho&lt;33 tens que me pagar uma coca-cola,['Coca-cola'],he/she/they 19,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nemfazsentido24', 'name': 'Faria 🎨', 'id': 1000377915446648832, 'id_str': '1000377915446648832', 'indices': [0, 16]}], 'symbols': []}"
+2021-05-10 14:47:07,"""nike ou adidas?""
+
+voce",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:47:11,"Morro Do Limão ?🚩
+Cpx Lixão ?🚩
+Boca Do Mato ?🚩
+Estradinha ?🚩
+Vila Do Ar ?🚩
+Pontilhão ?🚩
+Colina ?🚩
+Morro Dos Milagres ?🚩
+Monte Alto ?🚩
+Coca Cola ?🚩
+C.M ?🚩
+Reserva ?🚩
+Muruba ?🚩
+Guarani ? 🚩
+Caiçara ?🚩
+São Cristóvão ?🚩
+Praia Do Siqueira ?🚩
+
+FAMÍLIA GRANDE COMPLICADA",['Coca cola'],"Nova Friburgo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'morrodolimao', 'name': 'Morro Do Limão', 'id': 1045038470983548933, 'id_str': '1045038470983548933', 'indices': [3, 16]}], 'symbols': []}"
+2021-05-10 14:47:16,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],"Ceilândia, Brasília","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:47:16,Comprei na shein mas não tenho paciência nenhuma de espera,['SHEIN'],Deprelândia - lagrimas,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:47:25,perdi meu casaco da nike e o do flamengo kkkkk,['Nike'],  Angra dos Reis 🌴,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:47:25,"Estatura média ✅
+Joga futebol como um Deus ✅
+Usa Nike ✅
+Pretinho ✅
+Postura de jogador caro ✅
+Nunca perdeu 1x1 ✅
+
+Tudo isso no pai aqui 🤗🙅🏾‍♂️",['Nike'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'iuryLima07', 'name': 'ɪᴜʀʏ ʟɪᴍᴀ 🇵🇹🌟', 'id': 1168654527567945733, 'id_str': '1168654527567945733', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:47:30,@RodrigoBuenoTV Os que vestem nike estão na sula,['Nike'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:47:59,@cleytxn @guarana Aqui se chama prefiro coca cola,['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'cleytxn', 'name': 'seu amigo cleyto', 'id': 1239035701146062848, 'id_str': '1239035701146062848', 'indices': [0, 8]}, {'screen_name': 'guarana', 'name': 'Guaraná Antarctica', 'id': 118724265, 'id_str': '118724265', 'indices': [9, 17]}], 'symbols': []}"
+2021-05-10 14:48:18,"Nubank aumentando meu limite do cartão, o inimigo é argiloso mesmo",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:22,depois de 14 dias minha compra da shein chegou no brasil,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:25,"@Brendinhakonig negativo, prefiro a Nike mas uso as duas sem problemas",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:48:27,e meu amigo que gastou 200 reais na Shein c roupa/maquiagem e veio no meio de uma ventania só pra me dar os presentes ..,['SHEIN'],🍢🍞 ᵎ ♡̶ ૮˃̵֊ ˂̵ ა . . . ★ ,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:39,se eu fosse rica eu so ia gastar meu dinheiro na ivy park e na nike,['Nike'],"rio grande do sul, brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:42,caralho fiz uma lista de desejos da shein e já deu uns 3000 reais pqp,['SHEIN'],ele / dele,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:43,"@joaoalvesjhja @nauticope Foi um combo. Coca-Cola, hamburguer e bata frita.",['Coca-cola'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'joaoalvesjhja', 'name': '𝙅𝙤𝙝𝙣𝙣𝙮 𝘽. 𝙂𝙤𝙤𝙙 ★ ✊🏼🚩', 'id': 842482153, 'id_str': '842482153', 'indices': [0, 14]}, {'screen_name': 'nauticope', 'name': 'Náutico', 'id': 43343061, 'id_str': '43343061', 'indices': [15, 25]}], 'symbols': []}"
+2021-05-10 14:48:43,"""nike ou adidas?""
+
+voce",['Nike'],"Bahia, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:49,"""nike ou adidas?""
+
+voce",['Nike'],bea ; cams ; tata ; iguin ♡,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:48:57,"@marcoslonguini @RodrigoBuenoTV Até na Europa a Nike está fraca, vários times de ponta não usam Nike.",['Nike'],Itapevi - SP,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'marcoslonguini', 'name': 'Z.', 'id': 1134073321308508160, 'id_str': '1134073321308508160', 'indices': [0, 15]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [16, 31]}], 'symbols': []}"
+2021-05-10 14:48:58,"@Alexandreelf Vários, agora se vc vai comprar uma marca que nunca usou melhor experimentar antes, tenho pé espaiado então Nike não rola.",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Alexandreelf', 'name': 'Alexandre Lima', 'id': 858034773419339777, 'id_str': '858034773419339777', 'indices': [0, 13]}], 'symbols': []}"
+2021-05-10 14:49:03,Comprei minha calca na shein que queria me dar de aniversario to feliz,['SHEIN'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:24,Shein a forever 21 da nova geração,['SHEIN'],any pronouns♡,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:25,"@pedrohcust @leomfermiano @paiNGamingBR @PSG_Talon ""Acabar logo isso aqui pq a Nike lançou um bootzin maneiro"" sksksksksksksksksksksksksksk",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'pedrohcust', 'name': 'Pedro Henrique Custódio Filho', 'id': 102184268, 'id_str': '102184268', 'indices': [0, 11]}, {'screen_name': 'leomfermiano', 'name': 'Frio e Social Media', 'id': 1167075000609837056, 'id_str': '1167075000609837056', 'indices': [12, 25]}, {'screen_name': 'paiNGamingBR', 'name': 'paiN Gaming #PNGWIN 🇧🇷', 'id': 236112959, 'id_str': '236112959', 'indices': [26, 39]}, {'screen_name': 'PSG_Talon', 'name': 'PSG TALON #MSI2021', 'id': 1273533590882578434, 'id_str': '1273533590882578434', 'indices': [40, 50]}], 'symbols': []}"
+2021-05-10 14:49:28,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:29,""" Nike ou Adidas""
+
+A sua mãe aquela gostosa ✌🏼",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:42,@Brendinhakonig NIKE 🙅🏿‍♂️ Esquece,['Nike'],"Lorena, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Brendinhakonig', 'name': 'Brendinha', 'id': 1274867376119590916, 'id_str': '1274867376119590916', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:49:44,"""nike ou adidas?""
+
+você",['Nike'],🧢•🐇•🍸•🌵,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:47,paga minha compra na shein e eu digo se esperava ou não,['SHEIN'],"Curitiba, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:48,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 BonéFogo,['Nike'],mongol,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:49,""" Nike ou Adidas""
+
+A sua mãe aquela gostosa ✌🏼",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:50,Gente tô mt viciada na shein meu carrinho já passou de mil reais eu simplesmente quero TUDO,['SHEIN'],"Cerro Largo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:49:58,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:49:59,meu sonho acabar logo o contrato do corinthians com a nike,['Nike'],‏زكواد,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:00,@reusccp eu escolheria facilmente nike no meu lugar,['Nike'],no coração dela,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'reusccp', 'name': 'ؘluci #laraday', 'id': 1252233757, 'id_str': '1252233757', 'indices': [0, 8]}], 'symbols': []}"
+2021-05-10 14:50:07,@LucasRampanellj sdds camisa rosa da nike,['Nike'],"Araraquara, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'LucasRampanellj', 'name': 'Lucas X', 'id': 788473419511783424, 'id_str': '788473419511783424', 'indices': [0, 16]}], 'symbols': []}"
+2021-05-10 14:50:17,"""nike ou adidas?""
+
+seios",['Nike'],Astroworld,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:19,"eh como o brtt diz quando faz tiktok: ""hj larguei minha bih to solteiro pq ela pisou no meu yeezy, yeezy, nike jordan yeah so nao pisa no meu pé 😝😛🤑😎😎😎""",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'stefaniecrdoso', 'name': 'ؘ', 'id': 1209166974997139456, 'id_str': '1209166974997139456', 'indices': [3, 18]}], 'symbols': []}"
+2021-05-10 14:50:19,"eh como o brtt diz quando faz tiktok: ""hj larguei minha bih to solteiro pq ela pisou no meu yeezy, yeezy, nike jordan yeah so nao pisa no meu pé 😝😛🤑😎😎😎""",['Nike'],Brasil,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'stefaniecrdoso', 'name': 'ؘ', 'id': 1209166974997139456, 'id_str': '1209166974997139456', 'indices': [3, 18]}], 'symbols': []}"
+2021-05-10 14:50:20,@_padueli @Victorgmo2_ @RicardoMenezess @RodrigoBuenoTV tu ja viu o preço de uma camisa da nike em reais?,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_padueli', 'name': 'Gustavo Padueli', 'id': 1256419199938899975, 'id_str': '1256419199938899975', 'indices': [0, 9]}, {'screen_name': 'Victorgmo2_', 'name': 'Victorᶜᵃᵐ', 'id': 1274462174635753479, 'id_str': '1274462174635753479', 'indices': [10, 22]}, {'screen_name': 'RicardoMenezess', 'name': 'Ric@rdo 🔴⚫️', 'id': 90640755, 'id_str': '90640755', 'indices': [23, 39]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [40, 55]}], 'symbols': []}"
+2021-05-10 14:50:21,o cartao da nubank eh tao bonito ne da vontade de gastar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:22,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],Curitiba - PR,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:50:24,acho que vou comprar umas roupas na shein,['SHEIN'],na bosta,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:32,Tem uns shorts jeans da Shein que misericórdia KKKKKKKKKKK,['SHEIN'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:34,"O nubank negando uma compra pq excedeu 0,50$ do limite. Kkkkkkkkkkkkkk",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:50:35,"@LuhQuennehen você pode ser minha assistente 🤪
+pago 2 cent o dia
+sim trabalho escravo que nem na shein",['SHEIN'],Loonaverse ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'LuhQuennehen', 'name': 'luh quennehen', 'id': 1205684381609799680, 'id_str': '1205684381609799680', 'indices': [0, 13]}], 'symbols': []}"
+2021-05-10 14:50:36,"Ótimo que o @nubank resolveu ficar instável hoje, bem no dia de pagar boleto.",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [12, 19]}], 'symbols': []}"
+2021-05-10 14:50:44,"@vedovelli74 Eu to usando Nubank. 
+
+uso as 2 contas la, inclusive. 
+
+PJ e PF",['Nubank'],"Rio de Janeiro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vedovelli74', 'name': 'Fabio Vedovelli', 'id': 1214613045986680839, 'id_str': '1214613045986680839', 'indices': [0, 12]}], 'symbols': []}"
+2021-05-10 14:50:46,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],rj 021,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:50:47,@isabollalauck mas a shein não é a terra do cropped e do shortinho???????????,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'isabollalauck', 'name': '𝔟𝔢𝔩𝔩', 'id': 4691319571, 'id_str': '4691319571', 'indices': [0, 14]}], 'symbols': []}"
+2021-05-10 14:50:53,@RodrigoBuenoTV Cadê o Corinthians com a Nike?,['Nike'],Minha Casa,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:50:57,"@vnrealcria Nao po, isso aí é um nike shox eu acho kkkkkkkkk",['Nike'],erre xota,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vnrealcria', 'name': 'vnsx D’Or🦦', 'id': 963166631236132864, 'id_str': '963166631236132864', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:50:57,"""Nike ou Adidas""
+
+O seu pai aquele homao da porra👿😈",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:51:15,"@beautaefu Uso inter e nubank, os dois são muito bons, inter tem o app mais completo com diversas funcionalidades zero tarifas em tudo",['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'beautaefu', 'name': 'Karina Yoon', 'id': 904906569061715968, 'id_str': '904906569061715968', 'indices': [0, 10]}], 'symbols': []}"
+2021-05-10 14:51:20,nossa tava acontecendo babado c akendall mas eu tava falando de treta no fb da shein KKKKK,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:51:23,"""nike ou adidas?""
+
+voce",['Nike'],"Recife, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_spfcmarinho', 'name': 'gi neymarzeteˢᵖᶠᶜ🐺', 'id': 1329871863611330566, 'id_str': '1329871863611330566', 'indices': [3, 16]}], 'symbols': []}"
+2021-05-10 14:51:28,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:51:33,"As crianças tem pais e mães que ficam em cima. Frequentam a igreja. Mas trabalham 10h por dia. E a boca de fumo tá na porta. E o traficante tá portando AK47 e fazendo bonito. Pagando coca cola e esbanjando vida boa. 
+
+É desleal.",['Coca cola'],"Rio Branco, Acre","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'olabocos', 'name': 'Debs', 'id': 958510631967129600, 'id_str': '958510631967129600', 'indices': [3, 12]}], 'symbols': []}"
+2021-05-10 14:51:43,@AnaElza18 Estou usando a linha da boticário para cabelos oleosos e estou amando,['Boticário'],"Belo Horizonte, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'AnaElza18', 'name': 'Ana Elza', 'id': 1244692316700499969, 'id_str': '1244692316700499969', 'indices': [0, 10]}], 'symbols': []}"
+2021-05-10 14:51:43,viciada em comprar blazer......mal terminei uma compra na shein e já coloquei mais 4 blazers no carrinho,['SHEIN'],"Florianópolis, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:51:45,queria um xiaomi,['Xiaomi'],i would give anything to have at least one sec with 𝗺𝗶𝗻𝗵𝘆𝘂𝗸 and ask if he can cook for me.,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:51:52,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],"São Sebastião, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:52:02,"Atualização do caso @AliExpressBR 
+Entrei em contato c o suporte, q falou em mudanças no app e me pediu um e-mail p fazer uma atualização. Disse q meu caso se resolveria em 24 a 48h e q eu tentasse novamente comprar neste prazo... o chat foi ambiguo, n sei se irão resolver de vdd",[],"gabs, lali & fer","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'amendoline', 'name': 'aline tem um autógrafo do yibo', 'id': 1128831450898456581, 'id_str': '1128831450898456581', 'indices': [3, 14]}, {'screen_name': 'AliExpressBR', 'name': 'AliExpress Brasil', 'id': 1243015536, 'id_str': '1243015536', 'indices': [36, 49]}], 'symbols': []}"
+2021-05-10 14:52:02,"""nike ou adidas?""
+
+seios",['Nike'],"Salvador, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'travisdisse', 'name': 'TRAVIS SCOTT', 'id': 1349060856445853697, 'id_str': '1349060856445853697', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:52:03,"@SHEIN_official Shein, vamo web namorar?",['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SHEIN_official', 'name': 'SHEIN', 'id': 554957168, 'id_str': '554957168', 'indices': [0, 15]}], 'symbols': []}"
+2021-05-10 14:52:05,"""nike ou adidas?""
+
+seios",['Nike'],ele/dele,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'travisdisse', 'name': 'TRAVIS SCOTT', 'id': 1349060856445853697, 'id_str': '1349060856445853697', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:52:07,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:52:13,"então eu tô suplicando por ajuda porque eu corro risco de vida e eu preciso muito da ajuda de vocês para comprar os medicamentos eu não sei se eu vou aguentar ser forte...
+
+🔴NUBANK PIX:
+Nathalia.pessoa.2013@gmail.com
+
+🔴PICPAY: @/Nahnathy
+
+🔴 ITAU:
+Agência: 8058
+Conta: 18960-9",['Nubank'],Hogsmeade,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'Nahnathy_', 'name': '⚠️AJUDE A NATHALIA⚠️', 'id': 1234008773167132672, 'id_str': '1234008773167132672', 'indices': [3, 13]}], 'symbols': []}"
+2021-05-10 14:52:13,"""nike ou adidas?""
+
+seios",['Nike'],🇧🇷,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'travisdisse', 'name': 'TRAVIS SCOTT', 'id': 1349060856445853697, 'id_str': '1349060856445853697', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:52:14,sem um puto no bolso e comprando roupa na shein,['SHEIN'],021,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:52:21,"não achei saúde mental no site da nike, vai tênis mesmo né",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:52:36,"@vidalet_ @v_montechiari Sim
+
+Camisa do Flamengo da Uruguaiana 
+Bermuda korova 
+Tênis Nike",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'vidalet_', 'name': 'ana bia', 'id': 1648549243, 'id_str': '1648549243', 'indices': [0, 9]}, {'screen_name': 'v_montechiari', 'name': 'Vince', 'id': 3971602077, 'id_str': '3971602077', 'indices': [10, 24]}], 'symbols': []}"
+2021-05-10 14:52:36,nubank eu te amo mas qual o problema de deixar sacar sem pagar taxa? sou obrigada a abrir conta em outro lugar,['Nubank'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:52:38,@sep_bella_ melhor q nike,['Nike'],errijota menóh,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sep_bella_', 'name': 'isa✨', 'id': 1187345880938098688, 'id_str': '1187345880938098688', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:52:44,"Se não existisse Coca-Cola minha missão de parar de tomar refrigerante seria muito mais fácil.
+Não dá, éo GOAT dos refrigerantes",['Coca-cola'],"Sete Lagoas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:52:50,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'ifobscuro', 'name': 'IF Obscuro', 'id': 4797529240, 'id_str': '4797529240', 'indices': [3, 13]}], 'symbols': []}"
+2021-05-10 14:52:59,comprei todo meu carrinho da shein e meu desânimo existencial não passou,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:01,"""nike ou adidas?""
+
+seios",['Nike'],"Sao Paulo, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'travisdisse', 'name': 'TRAVIS SCOTT', 'id': 1349060856445853697, 'id_str': '1349060856445853697', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:53:03,ent💍vc💍 prefere 💍nike 💍?,['Nike'],"Santa Catarina, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:03,"@EmilioSandro3 @DaniellMrC E o POCO phone, que é o top da Xiaomi ele tem uma bateria de 7000 mah",['Xiaomi'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'EmilioSandro3', 'name': 'Sandro Emílio', 'id': 1048538688706269184, 'id_str': '1048538688706269184', 'indices': [0, 14]}, {'screen_name': 'DaniellMrC', 'name': 'mqo neoliberal', 'id': 107856897, 'id_str': '107856897', 'indices': [15, 26]}], 'symbols': []}"
+2021-05-10 14:53:03,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:53:05,nike vem pro fluminense pfv,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:20,Hj vai ser só coca cola. Ressaca da desgrama vei,['Coca cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:27,@nubank Estou monitorando!,['Nubank'],Rio de Janeiro - RJ,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:53:33,Minhas coisinhas da SHEIN e da beyoung estão chegando 🥳🥳🥳,['SHEIN'],Campina Grande do Sul,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:33,"não aguentei e comprei na SHEIN
+esse é o tuíte",['SHEIN'],Brazil,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:36,@nubank e o roxinho no Apple Pay?,['Nubank'],"Sao Paulo, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:53:47,@sep_bella_ Nike sem pensar mto,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'sep_bella_', 'name': 'isa✨', 'id': 1187345880938098688, 'id_str': '1187345880938098688', 'indices': [0, 11]}], 'symbols': []}"
+2021-05-10 14:53:50,olhei shein curitiba no search e um monte de gente falando q ta esperando a mais de 10 dias 🤡 então eu dei foi sorte das outras vezes,['SHEIN'],baiana,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:56,ganhei um desodorante corporal e um perfume da boticário  tem um cheiro tão perfeito,['Boticário'],"Montenegro, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:53:58,"a saia q eu pedi da shein chegou mas a calça q eu pedi 20 dias antes ainda n, qual o sentido",['SHEIN'],"Cuiabá, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:54:00,só queria um cupom de frete grátis da shein,['SHEIN'],rj/ 🏳️‍🌈,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:54:02,@BrunodC72 E a Coca-Cola?,['Coca-cola'],"Los Angeles, CA","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'BrunodC72', 'name': 'Bruno de Carvalho', 'id': 93373635, 'id_str': '93373635', 'indices': [0, 10]}], 'symbols': []}"
+2021-05-10 14:54:23,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:54:23,"@nubank O app ta apresentando instabilidade aqui, algum problema na plataforma ou devo me preocupar com o meu app e conta pessoal mesmo?",['Nubank'],"Belém, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [0, 7]}], 'symbols': []}"
+2021-05-10 14:54:26,"""nike ou adidas?""
+
+seios",['Nike'],sim,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'travisdisse', 'name': 'TRAVIS SCOTT', 'id': 1349060856445853697, 'id_str': '1349060856445853697', 'indices': [3, 15]}], 'symbols': []}"
+2021-05-10 14:54:28,"Tô começando a semana com batata frita e Coca-Cola. 
+Só Deus pode me julgar.",['Coca-cola'],"Rio Grande do Sul, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:54:35,@MauricioCola Incrível como a Nike sente prazer em CAGAR camisas. O aproveitamento é impressionante.,['Nike'],"Maceió, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'MauricioCola', 'name': 'Маurício Simões ⭐', 'id': 230115217, 'id_str': '230115217', 'indices': [0, 13]}], 'symbols': []}"
+2021-05-10 14:54:43,@g1 Legal q desse jeito o saque do @nubank vai poder der grátis finalmente. Ja era pros outros bancos.,['Nubank'],São Paulo,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'g1', 'name': 'G1', 'id': 8802752, 'id_str': '8802752', 'indices': [0, 3]}, {'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [35, 42]}], 'symbols': []}"
+2021-05-10 14:54:50,"- “Nike 12 mola é feio” 
+por: Vans, usuário. Óleo sobre tela. 2021",['Nike'],"miss u, x ","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'PedroSeschini', 'name': '𝖕𝖊𝖉𝖗𝖔𝖘𝖊𝖘𝖈𝖍𝖎𝖓𝖎 🩸🐉', 'id': 4013112622, 'id_str': '4013112622', 'indices': [3, 17]}], 'symbols': []}"
+2021-05-10 14:54:51,mn essa coleção nova da nike... 🥺,['Nike'],"Campinas, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:54:55,""" Nike ou Adidas""
+
+Prefiro você 9vinha",['Nike'],017,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:55:09,parceria PSG x Nike x Rexpeita foi oficialmente confirmado pra Dezembro de 2021 🧢🔥,['Nike'],nevermind,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SheoIGroup', 'name': 'Neo Sheol', 'id': 1224821894517534726, 'id_str': '1224821894517534726', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:55:10,@joaquim81590394 Sou da tike adidas tbm mas nike é mlr n tem jeito,['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'joaquim81590394', 'name': 'apenas', 'id': 1289691773636411392, 'id_str': '1289691773636411392', 'indices': [0, 16]}], 'symbols': []}"
+2021-05-10 14:55:10,medo de comprar na shein e ser taxada,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': '_coiimbraa', 'name': 'mandraka depressiva', 'id': 1283228221677461504, 'id_str': '1283228221677461504', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:55:17,"se espremer o universitário no final do semestre sai um caldo preto que é uma mistura de café, coca cola e ódio",['Coca cola'],"Brasília, Brazil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'unbsincera', 'name': 'UnB Sincera', 'id': 1265727126550044674, 'id_str': '1265727126550044674', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:55:25,""" Nike ou Adidas""
+
+A sua mãe aquela gostosa ✌🏼",['Nike'],𝓁𝒾𝓁𝓅𝑒𝑒𝓅,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:55:40,apaixonada na minhas compras da shein!!!! 😍😍😍,['SHEIN'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:56:15,"tenho mania de usar só as roupas que eu gosto, aí parece que só tenho elas",[],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:56:22,gente q horror meu professor usa adidas junto c nike💔💔💔💔💔💔,['Nike'],"Campina Grande, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:56:33,@meguii207 Prefiro Coca Cola,['Coca cola'],4490,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'meguii207', 'name': 'Margarida', 'id': 1213236907095650304, 'id_str': '1213236907095650304', 'indices': [0, 10]}], 'symbols': []}"
+2021-05-10 14:56:35,"Nossa, mas o @nubank ta só o pó da rabiola nessa segunda-feira hein?",['Nubank'],São Paulo,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'nubank', 'name': 'Nubank', 'id': 2319390320, 'id_str': '2319390320', 'indices': [13, 20]}], 'symbols': []}"
+2021-05-10 14:56:39,"Cês sabem onde eu encontro blusinha de gola alta por aqui?! Ok, gente. Eu sei que a SHEIN tem. Mas enfim. Algum lugar aqui vende?",['SHEIN'],022,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:56:49,@gabrielrseilhe @RodrigoBuenoTV Nike em decadência kkkkkkkkkkkkkkkk,['Nike'],"Vila Maria, São Paulo","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'gabrielrseilhe', 'name': 'Gabriel Seilhe', 'id': 51242253, 'id_str': '51242253', 'indices': [0, 15]}, {'screen_name': 'RodrigoBuenoTV', 'name': 'Rodrigo Bueno', 'id': 45385616, 'id_str': '45385616', 'indices': [16, 31]}], 'symbols': []}"
+2021-05-10 14:56:55,"Se não existisse Coca-Cola minha missão de parar de tomar refrigerante seria muito mais fácil.
+Não dá, éo GOAT dos refrigerantes",['Coca-cola'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'guiih_fael', 'name': 'Pantera Cor de Rosa', 'id': 520063930, 'id_str': '520063930', 'indices': [3, 14]}], 'symbols': []}"
+2021-05-10 14:57:03,Nunca vou me arrepender de ter trocado iPhone pelo Xiaomi,['Xiaomi'],Rio de Janeiro,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:57:10,"@SoccerGremio Gosto da umbro mas tipo, chega de umbro, topper e afins, queria no manto uma Nike, Adidas ou até uma Puma.",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'SoccerGremio', 'name': 'Soccer News Grêmio', 'id': 1163997474, 'id_str': '1163997474', 'indices': [0, 13]}], 'symbols': []}"
+2021-05-10 14:57:15,"As únicas coisas que me fariam feliz hoje são: uma lipo da papada, um celular novo e um bom dinheiro pra eu comprar umas roupas na shein",['SHEIN'],Rio Grande - RS,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:57:44,"@maxsepz n porra, aqui a gente usa nike tbm pcr kkkkkk",['Nike'],aracaju,"{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'maxsepz', 'name': 'max.', 'id': 1337390667711049730, 'id_str': '1337390667711049730', 'indices': [0, 8]}], 'symbols': []}"
+2021-05-10 14:58:11,"""nike ou adidas?""
+
+você",['Nike'],None,"{'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}"
+2021-05-10 14:58:12,@spfczara nunca vou superar ele ter largado a nike,['Nike'],"São Paulo, Brasil","{'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'spfczara', 'name': 'Zara', 'id': 1213615837631799297, 'id_str': '1213615837631799297', 'indices': [0, 9]}], 'symbols': []}"
