@@ -1,10 +1,10 @@
 import csv
-import unicodedata
-import settings
+import os
 
+from twitter.settings import TRACKED_TOPICS
 from tweepy.streaming import StreamListener
 
-csvfile = open('../../files/raw_stream_output.csv', 'a', encoding='utf-8')
+csvfile = open(os.path.join('../files/raw_stream_output2.csv'), 'a', encoding='utf-8')
 csvwriter = csv.writer(csvfile)
 csvwriter.writerow([
     'created_at',
@@ -57,7 +57,7 @@ class StreamListener(StreamListener):
                 except AttributeError:
                     tweet_content = str(status.text)
 
-            for tracked_topic in settings.TRACKED_TOPICS:
+            for tracked_topic in TRACKED_TOPICS:
                 if tracked_topic.lower() in tweet_content.lower():
                     keywords.append(tracked_topic)
 

@@ -1,4 +1,3 @@
-import json
 import werkzeug
 from werkzeug.utils import cached_property
 werkzeug.cached_property = cached_property
@@ -9,7 +8,7 @@ from api import api
 from twitter.tweet_acquisition import TweetAcquisition
 
 search_ns = Namespace('search', description='Search related operations')
-tweet_acquisition = TweetAcquisition()
+#tweet_acquisition = TweetAcquisition()
 
 # Model required by flask_restplus for expected data
 search_fields = api.model('Search', {
@@ -28,5 +27,6 @@ class Search(Resource):
     def post(self):
         payload = request.get_json()
         keyword = payload['keyword']
-        tweet_acquisition.stream_tweets(keyword)
+        #tweet_acquisition.stream_tweets(keyword)
+        TweetAcquisition(keyword).stream_tweets()
         return 200
